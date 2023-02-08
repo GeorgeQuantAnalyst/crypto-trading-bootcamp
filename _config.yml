@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: Crypto Trading Bootcamp
 description: Basic information about markets, mostly focused on trading cryptocurrencies.
-show_downloads: "false"
+show_downloads: false
