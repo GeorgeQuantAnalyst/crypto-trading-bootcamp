@@ -8,8 +8,6 @@ layout: default
 **Use-cases of cryptocurrencies**
 > Peer-to-peer payment system, Programmable Money, Collateral or Governance
 
-> Cryptocurrencies are primarily used as a digital medium of exchange. They are decentralized and operate on a blockchain network, which is a distributed ledger technology that records and verifies transactions. Cryptocurrencies can be used to make purchases, transfer money, and store value. They can also be used for more advanced applications such as smart contracts and decentralized applications (dApps). Some people also use cryptocurrencies as an investment, buying and holding them with the expectation that their value will increase over time. Bitcoin
-
 **What is trading?**
 > Trading refers to the exchange of goods or assets between two or more parties. This can take place in a variety of contexts, in crypto world is buying and selling cryptocurrencies on a crypto-exchange (buy or sell assets into your wallet or hedge before price risk on futures market)
 
