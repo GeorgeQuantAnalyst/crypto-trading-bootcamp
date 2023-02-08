@@ -3,13 +3,15 @@ layout: default
 ---
 
 **What is cryptocurrencies?**
-> Cryptocurrencies are digital or virtual currencies that use cryptography for security and operate independently of a central bank. They are decentralized and typically built on blockchain technology, which is a distributed ledger that records all transactions made on the network. The most well-known cryptocurrency is Bitcoin, but there are many other types of cryptocurrencies, such as Ethereum, Litecoin, and Ripple. Cryptocurrencies can be bought and sold on digital currency exchanges, and can also be used to purchase goods and services online. Transactions made with cryptocurrencies are recorded on a public ledger and are verified by a network of computers, making them more secure and transparent than traditional forms of currency.
+> Cryptocurrencies are digital or virtual currencies that use cryptography for security and operate independently of a central bank. They are decentralized and typically built on blockchain technology, which is a distributed ledger that records all transactions made on the network.
 
 **Use-cases of cryptocurrencies**
+> Peer-to-peer payment system, Programmable Money, Collateral or Governance
+
 > Cryptocurrencies are primarily used as a digital medium of exchange. They are decentralized and operate on a blockchain network, which is a distributed ledger technology that records and verifies transactions. Cryptocurrencies can be used to make purchases, transfer money, and store value. They can also be used for more advanced applications such as smart contracts and decentralized applications (dApps). Some people also use cryptocurrencies as an investment, buying and holding them with the expectation that their value will increase over time. Bitcoin
 
 **What is trading?**
-> Trading refers to the exchange of goods or assets between two or more parties. This can take place in a variety of contexts, such as buying and selling securities on a stock exchange, bartering for goods or services, or buying and selling currencies on the foreign exchange market. Trading can be conducted by individuals, institutions, or businesses, and it can take place in person, over the phone, or online. The goal of trading is typically to generate profits by buying low and selling high, or by taking advantage of price differences in different markets.
+> Trading refers to the exchange of goods or assets between two or more parties. This can take place in a variety of contexts, in crypto world is buying and selling cryptocurrencies on a crypto-exchange (buy or sell assets into your wallet or hedge before price risk on futures market)
 
 # Basic
 * [What is trading?](pages/what_is_trading.md)
