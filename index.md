@@ -5,12 +5,6 @@ layout: default
 **What is cryptocurrencies?**
 > Cryptocurrencies are digital or virtual currencies that use cryptography for security and operate independently of a central bank. They are decentralized and typically built on blockchain technology, which is a distributed ledger that records all transactions made on the network.
 
-**Use-cases of cryptocurrencies**
-> Peer-to-peer payment system, Programmable Money, Collateral or Governance
-
-**What is trading?**
-> Trading refers to the exchange of goods or assets between two or more parties. This can take place in a variety of contexts, in crypto world is buying and selling cryptocurrencies on a crypto-exchange (buy or sell assets into your wallet or hedge before price risk on futures market)
-
 # Basic
 * [What is trading?](pages/what_is_trading.md)
 * [Asset classes](pages/asset_classes.md)
@@ -36,4 +30,7 @@ layout: default
 * [The Wyckoff Methodology in Depth: How to trade financial markets logically -  Rubén Villahermosa](https://www.amazon.com/Wyckoff-Methodology-Depth-financial-logically-ebook/dp/B07YXZ7VLZ/ref=sr_1_1?crid=2RW61543YIWH1&keywords=wyckoff&qid=1675859323&s=books&sprefix=wyckoff%2Cstripbooks-intl-ship%2C170&sr=1-1)
 * [Wyckoff 2.0: Structures, Volume Profile and Order Flow - Rubén Villahermosa](https://www.amazon.com/Wyckoff-2-0-Structures-Investing-Technical-ebook/dp/B08W215T4S/ref=sr_1_2?crid=2RW61543YIWH1&keywords=wyckoff&qid=1675859217&s=books&sprefix=wyckoff%2Cstripbooks-intl-ship%2C170&sr=1-2)
 * [Gold: The Once and Future Money - Nathan Lewis](https://www.amazon.com/Gold-Future-Money-Nathan-Lewis/dp/0470047666/ref=sr_1_1?crid=2OYVGHJ45L5XD&keywords=gold+the+once+and+future+money&qid=1675859262&s=books&sprefix=Gold%3A+The+Once+and+Future+Money%2Cstripbooks-intl-ship%2C178&sr=1-1)
+
+**About Author**
+> TODO: short desriptions about your self
 
