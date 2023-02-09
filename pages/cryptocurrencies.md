@@ -7,7 +7,7 @@ Public date: 9.2.2023
 
 <--TODO: lucka-->
 **Table of content**
-* [Base information](#BaseInfo)
+* [Base information](#base-information)
 * [Bitcoin]()
 * [Ethereum]()
 * [Crypto sectors]()
@@ -18,7 +18,7 @@ Public date: 9.2.2023
 
 
 
-## Base information <a BaseInfo:  id='BaseInfo'>
+## Base information
 
 ### What are cryptocurrencies?
 Cryptocurrencies are digital or virtual currencies that use cryptography for security and operate independently of a central bank. They are decentralized and typically built on blockchain technology, which is a distributed ledger that records all transactions made on the network. The most well-known cryptocurrency is Bitcoin, but there are many other types of cryptocurrencies, such as Ethereum, Litecoin, and Ripple. Cryptocurrencies can be bought and sold on digital currency exchanges, and can also be used to purchase goods and services online. Transactions made with cryptocurrencies are recorded on a public ledger and are verified by a network of computers, making them more secure and transparent than traditional forms of currency.
