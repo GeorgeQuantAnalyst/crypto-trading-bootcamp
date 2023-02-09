@@ -5,7 +5,6 @@ layout: default
 # Cryptocurrencies
 Published date: 9.2.2023
 
-<--TODO: lucka-->
 **Table of content**
 * [Base information](#base-information)
 * [Bitcoin](#bitcoin)
