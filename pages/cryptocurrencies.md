@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Cryptocurrencies
-Public date: 9.2.2023
+Published date: 9.2.2023
 
 <--TODO: lucka-->
 **Table of content**
@@ -437,6 +437,6 @@ A crypto wallet is a software program that allows you to store, send, and receiv
 * Description: WBTC is a token that represents the value of Bitcoin (BTC) on the Ethereum blockchain, allowing users to take advantage of the benefits of Bitcoin in the world of decentralized finance (DeFi).
 * Mechanism consensus: Proof of Work (PoW).
 
-[back to list of contents](#cryptocurrencies)
+[back to table of content](#cryptocurrencies)
 
-[back](././)
+[back to index](../)
