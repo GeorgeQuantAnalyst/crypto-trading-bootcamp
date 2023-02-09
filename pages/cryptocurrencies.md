@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Cryptocurrencies
-Publis date: 9.2.2023
+Public date: 9.2.2023
 
 <--TODO: lucka-->
 **Table of content**
@@ -408,7 +408,7 @@ A crypto wallet is a software program that allows you to store, send, and receiv
 
 ### Shiba Inu (SHIB)
 * Description: SHIB is a relatively new and highly volatile cryptocurrency that is inspired by the popular meme "Dogecoin," and it is designed to be used for everyday transactions and online communities. It uses the Ethereum blockchain and is part of the DeFi (Decentralized Finance) sector, which aims to provide financial services and products without the need for intermediaries.
-* Mechanism consensus: SHIB is a cryptocurrency that uses the Ethereum blockchain, which is a proof-of-work consensus mechanism **Kontrola zdali je to porad POW**.
+* Mechanism consensus: SHIB is a cryptocurrency that uses the Ethereum blockchain.
 
 ### Litecoin (LTC)
 * Description: Litecoin (LTC) is a cryptocurrency that was created as a fork of Bitcoin and is designed to provide faster and cheaper transactions.
@@ -424,11 +424,11 @@ A crypto wallet is a software program that allows you to store, send, and receiv
 
 ### Dai (DAI)
 * Description: DAI is a stablecoin that aims to maintain a stable value relative to the US dollar by using decentralized financial mechanisms. It is built on the Ethereum blockchain and is designed to be used as a medium of exchange for decentralized applications and to provide a stable alternative to more volatile cryptocurrencies.
-* Mechanism consensus: DAI is a cryptocurrency that uses the Ethereum blockchain, which is a proof-of-work consensus mechanism **Kontrola zdali je to porad POW**.
+* Mechanism consensus: DAI is a cryptocurrency that uses the Ethereum blockchain.
 
 ### Uniswap (UNI)
 * Description: UNI is a decentralized cryptocurrency that operates on the Ethereum blockchain and is used to govern and power the Uniswap decentralized exchange (DEX) platform, allowing users to trade cryptocurrencies in a trustless and decentralized manner.
-* Mechanism consensus: UNI is build on Ethereum blockchain, which is a proof-of-work consensus mechanism **Kontrola zdali je to porad POW**.
+* Mechanism consensus: UNI is build on Ethereum blockchain.
 
 ### Cosmos (ATOM)
 * Description: Cosmos (ATOM) is a decentralized network that aims to connect different blockchains and improve inter-blockchain communication. 
@@ -439,4 +439,4 @@ A crypto wallet is a software program that allows you to store, send, and receiv
 * Mechanism consensus: Proof of Work (PoW).
 
 
-[back](./)
+[back](././)
