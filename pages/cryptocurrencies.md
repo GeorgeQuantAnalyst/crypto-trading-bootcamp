@@ -182,13 +182,13 @@ There are several cryptocurrencies that are considered to be top performers in t
 
 * [Monero (XMR)](https://www.getmonero.org/): Monero is a privacy-focused cryptocurrency that uses advanced encryption techniques to ensure that transactions are completely anonymous.
 
-* [Zcash (ZEC)](): Zcash is a privacy-focused cryptocurrency that uses zero-knowledge proofs to ensure that transactions are private.
+* [Zcash (ZEC)]()**: Zcash is a privacy-focused cryptocurrency that uses zero-knowledge proofs to ensure that transactions are private.
 
-* [Dash (DASH)](): Dash is a cryptocurrency that offers advanced privacy features, such as "PrivateSend" which makes transactions untraceable.
+* [Dash (DASH)]()**: Dash is a cryptocurrency that offers advanced privacy features, such as "PrivateSend" which makes transactions untraceable.
 
-* [Verge (XVG)](): Verge is a cryptocurrency that focuses on providing anonymous transactions by obscuring the IP addresses of its users.
+* [Verge (XVG)]()**: Verge is a cryptocurrency that focuses on providing anonymous transactions by obscuring the IP addresses of its users.
 
-* [Grin (GRIN)](): Grin is a privacy-focused cryptocurrency that uses the Mimblewimble protocol to ensure that transactions are private and untraceable.
+* [Grin (GRIN)]()**: Grin is a privacy-focused cryptocurrency that uses the Mimblewimble protocol to ensure that transactions are private and untraceable.
 
 ### Supply chain management sector
 In the supply chain management sector, some of the top cryptocurrencies include VeChain (VET), Waltonchain (WTC), and Ambrosus (AMB). These cryptocurrencies are designed to improve transparency and efficiency in supply chain management by using blockchain technology to track and verify the origin of goods. VeChain, for example, uses RFID technology to track products through the supply chain, while Ambrosus uses smart contracts to automate supply chain processes. These cryptocurrencies and their respective platforms aim to reduce fraud and improve trust in the supply chain industry.
@@ -233,33 +233,33 @@ It's difficult to say exactly which cryptocurrencies are the "top" in any given 
 ### Layer 2 sector
 It is difficult to say exactly which cryptocurrencies are considered the "top" in the layer 2 sector, as the crypto market is highly dynamic and projects are constantly emerging and evolving. However, some examples of projects that are often mentioned in the context of layer 2 solutions include:
 
-* Plasma: An Ethereum scaling solution that enables users to transact off-chain while still remaining on the Ethereum blockchain.
-* Lightning Network: A layer 2 solution for Bitcoin that allows users to transact off-chain in a trustless manner, using smart contract-based payment channels.
-* The Raiden Network: similar to lightning network, its solution for Ethereum
-* OmiseGO: a decentralized exchange built on the Ethereum blockchain which uses the Plasma protocol to enable fast, low-cost transactions.
+* **Plasma**: An Ethereum scaling solution that enables users to transact off-chain while still remaining on the Ethereum blockchain.
+* **Lightning Network**: A layer 2 solution for Bitcoin that allows users to transact off-chain in a trustless manner, using smart contract-based payment channels.
+* **The Raiden Network**: similar to lightning network, its solution for Ethereum
+* **OmiseGO**: a decentralized exchange built on the Ethereum blockchain which uses the Plasma protocol to enable fast, low-cost transactions.
 
 ### Metaverse sectors
 The "metaverse" is a term used to describe a virtual reality space where users can interact with each other and digital objects in a fully immersive environment. Cryptocurrencies that are being developed or used specifically for the metaverse sector include:
 
-* Decentraland (MANA) - a virtual reality platform built on the Ethereum blockchain that allows users to create and monetize content
-* Somnium Space (SOMN) - a decentralized virtual world where users can buy and develop land, build and monetize content, and interact with other users
-* The Sandbox (SAND) - a virtual world where users can build, share, and monetize voxel-based experiences and games
-* Axie Infinity (AXS) - a game that allows players to breed, raise, and battle fantasy creatures called Axies, and also trade them on a marketplace
-* Enjin Coin (ENJ) - a cryptocurrency that is used as the native token for the Enjin Platform, which allows game developers to create, manage and trade virtual goods
+* **Decentraland (MANA)** - a virtual reality platform built on the Ethereum blockchain that allows users to create and monetize content
+* **Somnium Space (SOMN)** - a decentralized virtual world where users can buy and develop land, build and monetize content, and interact with other users
+* **The Sandbox (SAND)** - a virtual world where users can build, share, and monetize voxel-based experiences and games
+* **Axie Infinity (AXS)** - a game that allows players to breed, raise, and battle fantasy creatures called Axies, and also trade them on a marketplace
+* **Enjin Coin (ENJ)** - a cryptocurrency that is used as the native token for the Enjin Platform, which allows game developers to create, manage and trade virtual goods
 
 
 ### NFT sector
 The NFT (non-fungible token) sector of the cryptocurrency market is relatively new and rapidly evolving, but some of the top cryptocurrencies in this sector include:
 
-* Ethereum (ETH): The Ethereum blockchain is the most widely used platform for creating and trading NFTs. The vast majority of NFTs are created on the Ethereum blockchain and can be bought and sold on various marketplaces.
+* **Ethereum (ETH)**: The Ethereum blockchain is the most widely used platform for creating and trading NFTs. The vast majority of NFTs are created on the Ethereum blockchain and can be bought and sold on various marketplaces.
 
-* Binance Coin (BNB): Binance is a popular cryptocurrency exchange that has recently launched its own NFT marketplace, Binance NFT. Binance Coin (BNB) is the native token of the Binance ecosystem and is used to pay for trading fees and NFT purchases on the platform.
+* **Binance Coin (BNB)**: Binance is a popular cryptocurrency exchange that has recently launched its own NFT marketplace, Binance NFT. Binance Coin (BNB) is the native token of the Binance ecosystem and is used to pay for trading fees and NFT purchases on the platform.
 
-* Enjin Coin (ENJ): Enjin is a gaming platform that has created a blockchain-based ecosystem for the gaming industry. Enjin Coin (ENJ) is the native token of the Enjin ecosystem and is used to purchase and trade NFTs on the Enjin marketplace.
+* **Enjin Coin (ENJ)**: Enjin is a gaming platform that has created a blockchain-based ecosystem for the gaming industry. Enjin Coin (ENJ) is the native token of the Enjin ecosystem and is used to purchase and trade NFTs on the Enjin marketplace.
 
-* Flow (FLOW): Flow is a blockchain platform designed for NFTs and decentralized applications (dApps). It aims to provide an efficient and scalable platform for creating and trading NFTs. The native token of the Flow blockchain is FLOW.
+* **Flow (FLOW)**: Flow is a blockchain platform designed for NFTs and decentralized applications (dApps). It aims to provide an efficient and scalable platform for creating and trading NFTs. The native token of the Flow blockchain is FLOW.
 
-* Rarible (RARI): Rarible is a marketplace for buying, selling and discovering unique digital items, including NFTs. The RARI token is used to pay for listing fees and access to certain features on the platform.
+* **Rarible (RARI)**: Rarible is a marketplace for buying, selling and discovering unique digital items, including NFTs. The RARI token is used to pay for listing fees and access to certain features on the platform.
 
 
 ## [Mechanism consensus](#cryptocurrencies)
@@ -305,34 +305,34 @@ A cryptocurrency exchange is a platform that allows users to buy, sell, and trad
 ### What are most used crypto exchanges?
 There are many cryptocurrency exchanges, but some of the most popular and widely used ones include:
 
-* Binance: One of the largest and most widely used crypto exchanges in the world, known for its high trading volumes and wide variety of cryptocurrencies available for trading.
+* **Binance**: One of the largest and most widely used crypto exchanges in the world, known for its high trading volumes and wide variety of cryptocurrencies available for trading.
 
-* Coinbase: One of the most popular exchanges in the US, known for its user-friendly interface and easy buying and selling of cryptocurrencies.
+* **Coinbase**: One of the most popular exchanges in the US, known for its user-friendly interface and easy buying and selling of cryptocurrencies.
 
-* Kraken: A well-established exchange that is popular among professional traders and offers a wide variety of trading pairs.
+* **Kraken**: A well-established exchange that is popular among professional traders and offers a wide variety of trading pairs.
 
-* Bitfinex: A Hong Kong-based exchange that is popular for its margin trading and lending services.
+* **Bitfinex**: A Hong Kong-based exchange that is popular for its margin trading and lending services.
 
-* Gemini: A US-based exchange that is known for its compliance with regulations and its focus on security.
+* **Gemini**: A US-based exchange that is known for its compliance with regulations and its focus on security.
 
-* Huobi: A Singapore-based exchange that is popular in Asia and offers a wide variety of trading pairs and services.
+* **Huobi**: A Singapore-based exchange that is popular in Asia and offers a wide variety of trading pairs and services.
 
-* Bittrex: A US-based exchange that is known for its high security and wide variety of trading pairs.
+* **Bittrex**: A US-based exchange that is known for its high security and wide variety of trading pairs.
 
 These are just a few examples, there are many other exchanges that are popular in different regions and countries and offer different features and services.
 
 ### What are most used futures crypto exchanges?
 The most used futures crypto exchanges are typically those that offer a wide variety of trading pairs, high liquidity, and advanced trading features such as margin trading and stop-loss orders. Some examples of popular futures crypto exchanges include:
 
-* Binance: One of the largest and most popular crypto exchanges in the world, Binance offers a wide range of trading pairs and advanced trading features such as margin trading and stop-loss orders.
+* **Binance**: One of the largest and most popular crypto exchanges in the world, Binance offers a wide range of trading pairs and advanced trading features such as margin trading and stop-loss orders.
 
-* BitMEX: A leading crypto derivatives exchange that offers up to 100x leverage on a variety of trading pairs.
+* **BitMEX**: A leading crypto derivatives exchange that offers up to 100x leverage on a variety of trading pairs.
 
-* OKEx: A crypto exchange that offers a wide range of trading pairs and derivatives trading options such as futures and options.
+* **OKEx**: A crypto exchange that offers a wide range of trading pairs and derivatives trading options such as futures and options.
 
-* Huobi: A Singapore-based crypto exchange that offers a wide range of trading pairs and advanced trading features such as margin trading and stop-loss orders.
+* **Huobi**: A Singapore-based crypto exchange that offers a wide range of trading pairs and advanced trading features such as margin trading and stop-loss orders.
 
-* Deribit: A crypto futures and options exchange that offers high leverage and advanced trading features.
+* **Deribit**: A crypto futures and options exchange that offers high leverage and advanced trading features.
 
 It's important to note that the crypto markets can be highly volatile and trading futures is considered a high risk activity, so it's important to fully understand the risks involved before trading on these exchanges.
 
@@ -340,17 +340,17 @@ It's important to note that the crypto markets can be highly volatile and tradin
 A crypto wallet is a software program that allows you to store, send, and receive digital assets, such as cryptocurrencies. Cryptocurrency wallets are secured by public and private keys, which are long strings of numbers and letters that serve as unique identifiers for your assets. The public key can be shared with others in order to receive payments, while the private key must be kept secure, as it is used to sign transactions and control access to your funds. Some crypto wallets are designed for use on a desktop computer, while others are designed for use on a mobile device. Some popular cryptocurrency wallets include MyEtherWallet, MetaMask, and Exodus.
 
 ### Type of wallets
-* **Hot Wallet**: A hot wallet is connected to the internet and is designed to be used for quick and frequent transactions.
+* **Hot Wallet**:  A hot wallet is connected to the internet and is designed to be used for quick and frequent transactions.
 
-* **Cold Wallet**: A cold wallet, also known as a hardware wallet, is not connected to the internet and is considered to be more secure for long-term storage of cryptocurrency.
+* **Cold Wallet**:  A cold wallet, also known as a hardware wallet, is not connected to the internet and is considered to be more secure for long-term storage of cryptocurrency.
 
-* **Desktop Wallet**: A desktop wallet is a software application that can be installed on a computer and is used to store, manage, and send cryptocurrencies.
+* **Desktop Wallet**:  A desktop wallet is a software application that can be installed on a computer and is used to store, manage, and send cryptocurrencies.
 
-* **Mobile Wallet**: A mobile wallet is a wallet application installed on a smartphone, which can be used to store, manage, and send cryptocurrencies.
+* **Mobile Wallet**:  A mobile wallet is a wallet application installed on a smartphone, which can be used to store, manage, and send cryptocurrencies.
 
-* **Web Wallet**: A web wallet is a type of hot wallet that can be accessed through a web browser and is typically used for quick and frequent transactions.
+* **Web Wallet**:  A web wallet is a type of hot wallet that can be accessed through a web browser and is typically used for quick and frequent transactions.
 
-* **Multi-Signature Wallet**: A multi-signature wallet requires multiple signatures or approvals from different users before a transaction can be executed. This type of wallet is often used for shared accounts or for businesses that need to secure their cryptocurrency holdings.
+* **Multi-Signature Wallet**:  A multi-signature wallet requires multiple signatures or approvals from different users before a transaction can be executed. This type of wallet is often used for shared accounts or for businesses that need to secure their cryptocurrency holdings.
 
 ## [Top 20 cryptocurrencies by market cap](#cryptocurrencies)
 
@@ -358,84 +358,84 @@ A crypto wallet is a software program that allows you to store, send, and receiv
 > Market cap is the total dollar value of all the shares of a company's stock — or, in the case of Bitcoin or another cryptocurrency, of all the coins that have been mined. In crypto, market cap is calculated by multiplying the total number of coins that have been mined by the price of a single coin at any given time
 
 ### Bitcoin (BTC)
-* Description: Bitcoin is a decentralized digital currency that operates on a peer-to-peer network, allowing for secure and transparent transfers of value without the need for intermediaries.
-* Mechanism consensus: Proof-of-Work
+* **Description**: Bitcoin is a decentralized digital currency that operates on a peer-to-peer network, allowing for secure and transparent transfers of value without the need for intermediaries.
+* **Mechanism consensus**: Proof-of-Work
 
 ### Ethereum (ETH)
-* Description: Ethereum is a decentralized, open-source blockchain platform that enables the creation of smart contracts and decentralized applications (dApps). It has its own cryptocurrency, Ether (ETH), which is used to pay for transactions and computational services on the network.
-* Mechanism consensus: Proof of Stake (PoS). The transition to PoS whitch ocured last year 2022 is part of Ethereum's larger effort to improve scalability and sustainability.
+* **Description**: Ethereum is a decentralized, open-source blockchain platform that enables the creation of smart contracts and decentralized applications (dApps). It has its own cryptocurrency, Ether (ETH), which is used to pay for transactions and computational services on the network.
+* **Mechanism consensus**: :Proof of Stake (PoS). The transition to PoS whitch ocured last year 2022 is part of Ethereum's larger effort to improve scalability and sustainability.
 
 ### Tether (USDT)
-* Description: Tether (USDT) is a stablecoin that is pegged to the value of the US dollar, with each Tether token representing one US dollar held in reserve by the Tether company. It aims to provide a stable, digital alternative to traditional fiat currencies for use in cryptocurrency exchanges and for peer-to-peer transactions.
-* Mechanism consensus: Proof of Reserve
+* **Description**: Tether (USDT) is a stablecoin that is pegged to the value of the US dollar, with each Tether token representing one US dollar held in reserve by the Tether company. It aims to provide a stable, digital alternative to traditional fiat currencies for use in cryptocurrency exchanges and for peer-to-peer transactions.
+* **Mechanism consensus**: Proof of Reserve
 
 ### BNB (BNB)
-* Description: BNB (Binance Coin) is a cryptocurrency created and used by the Binance exchange platform as a native token to pay for trading fees, access exclusive features, and participate in token sales on the Binance Launchpad.
-* Mechanism consensus: Combination of both Proof of Stake (PoS) and Delegated Proof of Stake (DPoS).
+* **Description**: BNB (Binance Coin) is a cryptocurrency created and used by the Binance exchange platform as a native token to pay for trading fees, access exclusive features, and participate in token sales on the Binance Launchpad.
+* **Mechanism consensus**: Combination of both Proof of Stake (PoS) and Delegated Proof of Stake (DPoS).
 
 ### USD Coin (USDC)
-* Description: USD Coin is a stablecoin pegged to the value of the US dollar, allowing for easy transfer of value without the fluctuations typically associated with cryptocurrencies.
-* Mechanism consensus: It does not use a consensus mechanism like proof of work (PoW) or proof of stake (PoS). Instead, USDC is issued and managed by a centralized entity, such as a financial institution, which holds an equivalent value of US dollars in reserve to back the USDC in circulation.
+* **Description**: USD Coin is a stablecoin pegged to the value of the US dollar, allowing for easy transfer of value without the fluctuations typically associated with cryptocurrencies.
+* **Mechanism consensus**: It does not use a consensus mechanism like proof of work (PoW) or proof of stake (PoS). Instead, USDC is issued and managed by a centralized entity, such as a financial institution, which holds an equivalent value of US dollars in reserve to back the USDC in circulation.
 
 ### XRP (XRP)
-* Description: XRP is a cryptocurrency that was designed for fast, secure, and low-cost international money transfers and is often used by financial institutions for cross-border payments.
-* Mechanism consensus: The consensus mechanism used by XRP is a unique consensus algorithm called the XRP Ledger Consensus Protocol. 
+* **Description**: XRP is a cryptocurrency that was designed for fast, secure, and low-cost international money transfers and is often used by financial institutions for cross-border payments.
+* **Mechanism consensus**: The consensus mechanism used by XRP is a unique consensus algorithm called the XRP Ledger Consensus Protocol. 
 
 ### Binance USD (BUSD)
-* Description: BUSD is a stablecoin pegged to the value of the US dollar, designed to provide a more stable and reliable store of value in the cryptocurrency market. It is issued by Binance and Paxos and operates on the Ethereum blockchain.
-* Mechanism consensus: Instead, it is backed by US dollars held in reserve, with regular audits performed to ensure that the issued tokens are fully collateralized. This creates a stablecoin that is pegged to the value of the US dollar and is intended to be used as a medium of exchange and a store of value in the cryptocurrency market.
+* **Description**: BUSD is a stablecoin pegged to the value of the US dollar, designed to provide a more stable and reliable store of value in the cryptocurrency market. It is issued by Binance and Paxos and operates on the Ethereum blockchain.
+* **Mechanism consensus**: Instead, it is backed by US dollars held in reserve, with regular audits performed to ensure that the issued tokens are fully collateralized. This creates a stablecoin that is pegged to the value of the US dollar and is intended to be used as a medium of exchange and a store of value in the cryptocurrency market.
 
 ### Cardano (ADA)
-* Description: ADA is a decentralized cryptocurrency that powers the Cardano blockchain, which aims to deliver more advanced features than existing blockchain technologies, such as increased scalability, interoperability, and sustainability.
-* Mechanism consensus: Proof of Stake (PoS)
+* **Description**: ADA is a decentralized cryptocurrency that powers the Cardano blockchain, which aims to deliver more advanced features than existing blockchain technologies, such as increased scalability, interoperability, and sustainability.
+* **Mechanism consensus**: Proof of Stake (PoS)
 
 ### Dogecoin (DOGE)
-* Description: Dogecoin is a decentralized, peer-to-peer digital currency that was created as a joke but has since become popular as a form of online payment and as a way for people to send money to each other quickly and easily.
-* Mechanism consensus: The Proof of Work (PoW)
+* **Description**: Dogecoin is a decentralized, peer-to-peer digital currency that was created as a joke but has since become popular as a form of online payment and as a way for people to send money to each other quickly and easily.
+* **Mechanism consensus**: The Proof of Work (PoW)
 
 ### Polygon (MATIC)
-* Description: MATIC is a cryptocurrency that is based on the Ethereum blockchain and is used for fast and low-cost transactions on the platform. It is a token that is designed to be used for payment and transfer of value on the Ethereum network, and it aims to provide a high-speed and efficient payment solution for decentralized applications and platforms. MATIC, which is short for Polygon (previously known as Matic Network), is a Layer 2 scaling solution for Ethereum.
-* Mechanism consensus: Proof of Stake (PoS)
+* **Description**: MATIC is a cryptocurrency that is based on the Ethereum blockchain and is used for fast and low-cost transactions on the platform. It is a token that is designed to be used for payment and transfer of value on the Ethereum network, and it aims to provide a high-speed and efficient payment solution for decentralized applications and platforms. MATIC, which is short for Polygon (previously known as Matic Network), is a Layer 2 scaling solution for Ethereum.
+* **Mechanism consensus**: Proof of Stake (PoS)
 
 ### Solana (SOL)
-* Description: SOL is a cryptocurrency that operates on the Solana blockchain network and is designed to support fast and efficient transactions with low fees, making it a potential player in the decentralized finance (DeFi) sector.
-* Mechanism consensus:Proof of History (PoH).
+* **Description**: SOL is a cryptocurrency that operates on the Solana blockchain network and is designed to support fast and efficient transactions with low fees, making it a potential player in the decentralized finance (DeFi) sector.
+* **Mechanism consensus**: Proof of History (PoH).
 
 ### Polkadot (DOT)
-* Description: DOT is the native cryptocurrency of the Polkadot network, which aims to provide a multi-chain ecosystem for decentralized applications and blockchain networks to interoperate with each other.
-* Mechanism consensus: The consensus mechanism used in the DOT cryptocurrency, which is the native asset of the Polkadot network, is called the Polkadot consensus. It is a hybrid consensus mechanism that combines Proof of Stake (PoS) with a variant of the "GRANDPA" finality gadget, which is a voting mechanism used to reach consensus in the network. In the Polkadot consensus, validators are selected to create new blocks and validate transactions, and they are incentivized to do so honestly through the reward mechanism implemented in the PoS consensus.
+* **Description**: DOT is the native cryptocurrency of the Polkadot network, which aims to provide a multi-chain ecosystem for decentralized applications and blockchain networks to interoperate with each other.
+* **Mechanism consensus**: The consensus mechanism used in the DOT cryptocurrency, which is the native asset of the Polkadot network, is called the Polkadot consensus. It is a hybrid consensus mechanism that combines Proof of Stake (PoS) with a variant of the "GRANDPA" finality gadget, which is a voting mechanism used to reach consensus in the network. In the Polkadot consensus, validators are selected to create new blocks and validate transactions, and they are incentivized to do so honestly through the reward mechanism implemented in the PoS consensus.
 
 ### Shiba Inu (SHIB)
-* Description: SHIB is a relatively new and highly volatile cryptocurrency that is inspired by the popular meme "Dogecoin," and it is designed to be used for everyday transactions and online communities. It uses the Ethereum blockchain and is part of the DeFi (Decentralized Finance) sector, which aims to provide financial services and products without the need for intermediaries.
-* Mechanism consensus: SHIB is a cryptocurrency that uses the Ethereum blockchain.
+* **Description**: SHIB is a relatively new and highly volatile cryptocurrency that is inspired by the popular meme "Dogecoin," and it is designed to be used for everyday transactions and online communities. It uses the Ethereum blockchain and is part of the DeFi (Decentralized Finance) sector, which aims to provide financial services and products without the need for intermediaries.
+* **Mechanism consensus**: SHIB is a cryptocurrency that uses the Ethereum blockchain.
 
 ### Litecoin (LTC)
-* Description: Litecoin (LTC) is a cryptocurrency that was created as a fork of Bitcoin and is designed to provide faster and cheaper transactions.
-* Mechanism consensus: The Proof of Work (PoW)
+* **Description**: Litecoin (LTC) is a cryptocurrency that was created as a fork of Bitcoin and is designed to provide faster and cheaper transactions.
+* **Mechanism consensus**: The Proof of Work (PoW)
 
 ### Avalanche (AVAX)
-* Description: AVAX is a cryptocurrency that operates on the Avalanche network, which aims to offer a fast and scalable platform for decentralized finance (DeFi) applications and digital assets.
-* Mechanism consensus: AVAX uses the Avalanche consensus mechanism. This mechanism is a highly scalable and decentralized consensus protocol that enables the secure and efficient transfer of assets and value on a blockchain network. It is based on a network of subnets that each have their own consensus mechanism, and it allows for fast and efficient transaction processing, low latency, and high throughput.
+* **Description**: AVAX is a cryptocurrency that operates on the Avalanche network, which aims to offer a fast and scalable platform for decentralized finance (DeFi) applications and digital assets.
+* **Mechanism consensus**: AVAX uses the Avalanche consensus mechanism. This mechanism is a highly scalable and decentralized consensus protocol that enables the secure and efficient transfer of assets and value on a blockchain network. It is based on a network of subnets that each have their own consensus mechanism, and it allows for fast and efficient transaction processing, low latency, and high throughput.
 
 ### TRON (TRX)
-* Description: TRX (Tron) is a blockchain-based cryptocurrency that aims to build a decentralized internet and enable content creators to have full ownership and control of their digital assets and content.
-* Mechanism consensus: Delegated Proof of Stake (DPoS)
+* **Description**: TRX (Tron) is a blockchain-based cryptocurrency that aims to build a decentralized internet and enable content creators to have full ownership and control of their digital assets and content.
+* **Mechanism consensus**: Delegated Proof of Stake (DPoS)
 
 ### Dai (DAI)
-* Description: DAI is a stablecoin that aims to maintain a stable value relative to the US dollar by using decentralized financial mechanisms. It is built on the Ethereum blockchain and is designed to be used as a medium of exchange for decentralized applications and to provide a stable alternative to more volatile cryptocurrencies.
-* Mechanism consensus: DAI is a cryptocurrency that uses the Ethereum blockchain.
+* **Description**: DAI is a stablecoin that aims to maintain a stable value relative to the US dollar by using decentralized financial mechanisms. It is built on the Ethereum blockchain and is designed to be used as a medium of exchange for decentralized applications and to provide a stable alternative to more volatile cryptocurrencies.
+* **Mechanism consensus**: DAI is a cryptocurrency that uses the Ethereum blockchain.
 
 ### Uniswap (UNI)
-* Description: UNI is a decentralized cryptocurrency that operates on the Ethereum blockchain and is used to govern and power the Uniswap decentralized exchange (DEX) platform, allowing users to trade cryptocurrencies in a trustless and decentralized manner.
-* Mechanism consensus: UNI is build on Ethereum blockchain.
+* **Description**: UNI is a decentralized cryptocurrency that operates on the Ethereum blockchain and is used to govern and power the Uniswap decentralized exchange (DEX) platform, allowing users to trade cryptocurrencies in a trustless and decentralized manner.
+* **Mechanism consensus**: UNI is build on Ethereum blockchain.
 
 ### Cosmos (ATOM)
-* Description: Cosmos (ATOM) is a decentralized network that aims to connect different blockchains and improve inter-blockchain communication. 
-* Mechanism consensus: It uses a consensus mechanism called the Tendermint consensus algorithm, which is a combination of Byzantine Fault Tolerance (BFT) and Proof of Stake (PoS).
+* **Description**: Cosmos (ATOM) is a decentralized network that aims to connect different blockchains and improve inter-blockchain communication. 
+* **Mechanism consensus**: It uses a consensus mechanism called the Tendermint consensus algorithm, which is a combination of Byzantine Fault Tolerance (BFT) and Proof of Stake (PoS).
 
 ### Wrapped Bitcoin (WBTC)
-* Description: WBTC is a token that represents the value of Bitcoin (BTC) on the Ethereum blockchain, allowing users to take advantage of the benefits of Bitcoin in the world of decentralized finance (DeFi).
-* Mechanism consensus: Proof of Work (PoW).
+* **Description**: WBTC is a token that represents the value of Bitcoin (BTC) on the Ethereum blockchain, allowing users to take advantage of the benefits of Bitcoin in the world of decentralized finance (DeFi).
+* **Mechanism consensus**: Proof of Work (PoW).
 
 [back to table of content](#cryptocurrencies)
 
