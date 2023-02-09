@@ -375,7 +375,7 @@ A crypto wallet is a software program that allows you to store, send, and receiv
 
 ### Ethereum (ETH)
 * **Description**: Ethereum is a decentralized, open-source blockchain platform that enables the creation of smart contracts and decentralized applications (dApps). It has its own cryptocurrency, Ether (ETH), which is used to pay for transactions and computational services on the network.
-* **Mechanism consensus**: :Proof of Stake (PoS). The transition to PoS whitch ocured last year 2022 is part of Ethereum's larger effort to improve scalability and sustainability.
+* **Mechanism consensus**: Proof of Stake (PoS). The transition to PoS whitch ocured last year 2022 is part of Ethereum's larger effort to improve scalability and sustainability.
 
 ### Tether (USDT)
 * **Description**: Tether (USDT) is a stablecoin that is pegged to the value of the US dollar, with each Tether token representing one US dollar held in reserve by the Tether company. It aims to provide a stable, digital alternative to traditional fiat currencies for use in cryptocurrency exchanges and for peer-to-peer transactions.
