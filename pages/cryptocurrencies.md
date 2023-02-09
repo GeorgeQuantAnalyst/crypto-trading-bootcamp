@@ -16,7 +16,7 @@ Published date: 9.2.2023
 * [Top 20 cryptocurrencies by market cap](#top-20-cryptocurrencies-by-market-cap)
 
 
-## [Base information](#cryptocurrencies)
+## Base information
 
 ### What are cryptocurrencies?
 Cryptocurrencies are digital or virtual currencies that use cryptography for security and operate independently of a central bank. They are decentralized and typically built on blockchain technology, which is a distributed ledger that records all transactions made on the network. The most well-known cryptocurrency is Bitcoin, but there are many other types of cryptocurrencies, such as Ethereum, Litecoin, and Ripple. Cryptocurrencies can be bought and sold on digital currency exchanges, and can also be used to purchase goods and services online. Transactions made with cryptocurrencies are recorded on a public ledger and are verified by a network of computers, making them more secure and transparent than traditional forms of currency.
@@ -43,7 +43,9 @@ A smart contract is a self-executing contract with the terms of the agreement be
 
 In real life, smart contracts can be used for a wide range of applications, including financial derivatives, supply chain management, real estate, and more. For example, in supply chain management, a smart contract could be used to automatically release payment to a supplier upon delivery of goods. In real estate, a smart contract could be used to automate the process of transferring ownership of a property. Additionally, smart contracts can be used for voting systems, digital identity, and other applications where secure and transparent record-keeping is important.
 
-## [Bitcoin](#cryptocurrencies)
+[Back to table of content](#cryptocurrencies)
+
+## Bitcoin
 
 ### What is Bitcoin?
 Bitcoin is a decentralized digital currency, without a central bank or single administrator, that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries. Transactions are verified by network nodes through cryptography and recorded in a public distributed ledger called a blockchain. Bitcoin is unique in that there are a finite number of them: 21 million. Bitcoins are created as a reward for a process known as mining. They can be exchanged for other currencies, products, and services.
@@ -65,7 +67,9 @@ Bitcoin transactions are processed by a decentralized network of computers, whic
 
 * In terms of how it works, Bitcoin relies on a technology called blockchain, which is a decentralized public ledger that records all bitcoin transactions. Transactions are grouped together in blocks, and each block is linked to the one before it, creating a chain of blocks (hence the name "blockchain"). Miners, who are individuals or organizations that contribute computing power to the network, compete to solve complex mathematical problems in order to validate transactions and add new blocks to the blockchain. In return, they are rewarded with newly minted bitcoins.
 
-## [Ethereum](#cryptocurrencies)
+[Back to table of content](#cryptocurrencies)
+
+## Ethereum
 
 ### What is Ethereum?
 Ethereum is an open-source, decentralized blockchain platform that enables the creation and execution of smart contracts and decentralized applications (dApps). It was first proposed in 2013 by Vitalik Buterin, a programmer and co-founder of Bitcoin Magazine. Ethereum uses its own cryptocurrency, Ether (ETH), as a medium of exchange for transactions on its network. One of the key differences between Ethereum and Bitcoin is that while Bitcoin is primarily used as a digital currency, Ethereum is designed to be a platform for decentralized applications. This means that in addition to being used as a medium of exchange, Ether can also be used to pay for the computational services required to run dApps on the Ethereum network.
@@ -92,7 +96,9 @@ Additionally, Ethereum can be used to create and run Decentralized Autonomous Or
 
 Overall, Ethereum provides a platform for developers to build a wide range of decentralized applications, and has the potential to revolutionize various industries by providing trustless, transparent and secure solutions.
 
-## [Crypto sectors](#cryptocurrencies)
+[Back to table of content](#cryptocurrencies)
+
+## Crypto sectors
 Crypto sectors refer to the different areas or industries in which cryptocurrencies and blockchain technology are being used or applied. Some examples of crypto sectors include:
 
 * **Payment and transactions**
@@ -260,8 +266,9 @@ The NFT (non-fungible token) sector of the cryptocurrency market is relatively n
 
 * **Rarible (RARI)**: Rarible is a marketplace for buying, selling and discovering unique digital items, including NFTs. The RARI token is used to pay for listing fees and access to certain features on the platform.
 
+[Back to table of content](#cryptocurrencies)
 
-## [Mechanism consensus](#cryptocurrencies)
+## Mechanism consensus
 In cryptocurrencies, a consensus mechanism is a method used to achieve agreement among participants in a decentralized network about the current state of the system. The goal of a consensus mechanism is to ensure that all participants in the network have the same view of the ledger, even in the presence of malicious actors or network failures.
 
 ### Proof of Work
@@ -297,7 +304,9 @@ This consensus mechanism is based on a network of nodes that maintain a distribu
 ### Proof of History
 PoH is a time-stamping mechanism that generates a unique, verifiable hash for each block, allowing nodes to verify the time of blocks without relying on a trusted time source. This mechanism helps Solana achieve high transaction speeds and low fees, making it a popular platform for decentralized applications.
 
-## [Crypto exchanges](#cryptocurrencies)
+[Back to table of content](#cryptocurrencies)
+
+## Crypto exchanges
 A cryptocurrency exchange is a platform that allows users to buy, sell, and trade cryptocurrencies. These exchanges act as intermediaries between buyers and sellers, facilitating transactions by matching orders and executing trades. Some of the most popular cryptocurrency exchanges include Binance, Coinbase, and Kraken. Exchanges can vary in terms of the types of cryptocurrencies they offer, their fees, and the level of security they provide for users' funds. Some exchanges also offer additional features, such as margin trading and derivatives trading.
 
 
@@ -335,7 +344,9 @@ The most used futures crypto exchanges are typically those that offer a wide var
 
 It's important to note that the crypto markets can be highly volatile and trading futures is considered a high risk activity, so it's important to fully understand the risks involved before trading on these exchanges.
 
-## [Crypto wallets](#cryptocurrencies)
+[Back to table of content](#cryptocurrencies)
+
+## Crypto wallets
 A crypto wallet is a software program that allows you to store, send, and receive digital assets, such as cryptocurrencies. Cryptocurrency wallets are secured by public and private keys, which are long strings of numbers and letters that serve as unique identifiers for your assets. The public key can be shared with others in order to receive payments, while the private key must be kept secure, as it is used to sign transactions and control access to your funds. Some crypto wallets are designed for use on a desktop computer, while others are designed for use on a mobile device. Some popular cryptocurrency wallets include MyEtherWallet, MetaMask, and Exodus.
 
 ### Type of wallets
@@ -351,7 +362,9 @@ A crypto wallet is a software program that allows you to store, send, and receiv
 
 * **Multi-Signature Wallet**:  A multi-signature wallet requires multiple signatures or approvals from different users before a transaction can be executed. This type of wallet is often used for shared accounts or for businesses that need to secure their cryptocurrency holdings.
 
-## [Top 20 cryptocurrencies by market cap](#cryptocurrencies)
+[Back to table of content](#cryptocurrencies)
+
+## Top 20 cryptocurrencies by market cap
 
 **What is market cap**
 > Market cap is the total dollar value of all the shares of a company's stock — or, in the case of Bitcoin or another cryptocurrency, of all the coins that have been mined. In crypto, market cap is calculated by multiplying the total number of coins that have been mined by the price of a single coin at any given time
@@ -436,6 +449,6 @@ A crypto wallet is a software program that allows you to store, send, and receiv
 * **Description**: WBTC is a token that represents the value of Bitcoin (BTC) on the Ethereum blockchain, allowing users to take advantage of the benefits of Bitcoin in the world of decentralized finance (DeFi).
 * **Mechanism consensus**: Proof of Work (PoW).
 
-[back to table of content](#cryptocurrencies)
+[Back to table of content](#cryptocurrencies)
 
-[back to index](../)
+[Back](../)
