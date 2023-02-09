@@ -438,4 +438,5 @@ A crypto wallet is a software program that allows you to store, send, and receiv
 * Mechanism consensus: Proof of Work (PoW).
 
 [back to list of contents](#cryptocurrencies)
+
 [back](././)
