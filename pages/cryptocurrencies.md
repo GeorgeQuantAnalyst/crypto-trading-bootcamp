@@ -187,13 +187,13 @@ There are several cryptocurrencies that are considered to be top performers in t
 
 * [Monero (XMR)](https://www.getmonero.org/): Monero is a privacy-focused cryptocurrency that uses advanced encryption techniques to ensure that transactions are completely anonymous.
 
-* [Zcash (ZEC)]()**: Zcash is a privacy-focused cryptocurrency that uses zero-knowledge proofs to ensure that transactions are private.
+* [Zcash (ZEC)](): Zcash is a privacy-focused cryptocurrency that uses zero-knowledge proofs to ensure that transactions are private.
 
-* [Dash (DASH)]()**: Dash is a cryptocurrency that offers advanced privacy features, such as "PrivateSend" which makes transactions untraceable.
+* [Dash (DASH)](): Dash is a cryptocurrency that offers advanced privacy features, such as "PrivateSend" which makes transactions untraceable.
 
-* [Verge (XVG)]()**: Verge is a cryptocurrency that focuses on providing anonymous transactions by obscuring the IP addresses of its users.
+* [Verge (XVG)](): Verge is a cryptocurrency that focuses on providing anonymous transactions by obscuring the IP addresses of its users.
 
-* [Grin (GRIN)]()**: Grin is a privacy-focused cryptocurrency that uses the Mimblewimble protocol to ensure that transactions are private and untraceable.
+* [Grin (GRIN)](): Grin is a privacy-focused cryptocurrency that uses the Mimblewimble protocol to ensure that transactions are private and untraceable.
 
 ### Supply chain management sector
 In the supply chain management sector, some of the top cryptocurrencies include VeChain (VET), Waltonchain (WTC), and Ambrosus (AMB). These cryptocurrencies are designed to improve transparency and efficiency in supply chain management by using blockchain technology to track and verify the origin of goods. VeChain, for example, uses RFID technology to track products through the supply chain, while Ambrosus uses smart contracts to automate supply chain processes. These cryptocurrencies and their respective platforms aim to reduce fraud and improve trust in the supply chain industry.
