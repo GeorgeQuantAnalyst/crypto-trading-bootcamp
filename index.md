@@ -40,10 +40,10 @@ layout: default
 </td>
 <td>
 <b>I am passionate quantitative analyst/trader focus on trading blockchain commodities.</b>
-
-Market analysis skills: Price Action, Wyckoff market structure, Volume profile, Order flow, Liquidity analysis, Correlation analysis
-
-Programming skills: Python, Pandas, Numpy, Matplotlib, JupyterNotebook, SQL, Linux, Git, REST services
 </td>
 </tr>
 </table>
+
+> Market analysis skills: Price Action, Wyckoff market structure, Volume profile, Order flow, Liquidity analysis, Intermarket analysis
+>
+> Programming skills: Python, Pandas, Numpy, Matplotlib, JupyterNotebook, SQL, Linux, Git, REST services
