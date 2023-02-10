@@ -50,5 +50,4 @@ Market analysis skills:
 Programming skills:
 > Python, Pandas, Numpy, Matplotlib, JupyterNotebook, SQL, Linux, Git, REST services
 
-Contact:
-* [Telegram - GeorgeQuantAnalyst](https://t.me/GeorgeQunatAnalyst)
+Contact: [Telegram - GeorgeQuantAnalyst](https://t.me/GeorgeQunatAnalyst)
