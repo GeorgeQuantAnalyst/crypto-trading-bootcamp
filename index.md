@@ -31,7 +31,10 @@ layout: default
 * [Wyckoff 2.0: Structures, Volume Profile and Order Flow - Rubén Villahermosa](https://www.amazon.com/Wyckoff-2-0-Structures-Investing-Technical-ebook/dp/B08W215T4S/ref=sr_1_2?crid=2RW61543YIWH1&keywords=wyckoff&qid=1675859217&s=books&sprefix=wyckoff%2Cstripbooks-intl-ship%2C170&sr=1-2)
 * [Gold: The Once and Future Money - Nathan Lewis](https://www.amazon.com/Gold-Future-Money-Nathan-Lewis/dp/0470047666/ref=sr_1_1?crid=2OYVGHJ45L5XD&keywords=gold+the+once+and+future+money&qid=1675859262&s=books&sprefix=Gold%3A+The+Once+and+Future+Money%2Cstripbooks-intl-ship%2C178&sr=1-1)
 
-**About George Quant Analyst**
+---
+<center>
+<h2>About George Quant Analyst</h2>
+</center>
 
 <table>
 <tr>
@@ -44,10 +47,10 @@ layout: default
 </tr>
 </table>
 
-Market analysis skills:
+**Market analysis skills**:
 > Price Action, Wyckoff market structure, Volume profile, Order flow, Liquidity analysis, Intermarket analysis
 
-Programming skills:
+**Programming skills**:
 > Python, Pandas, Numpy, Matplotlib, JupyterNotebook, SQL, Linux, Git, REST services
 
-Contact: [Telegram - GeorgeQuantAnalyst](https://t.me/GeorgeQunatAnalyst)
+**Contact**: [Telegram - GeorgeQuantAnalyst](https://t.me/GeorgeQunatAnalyst)
