@@ -44,6 +44,11 @@ layout: default
 </tr>
 </table>
 
-> Market analysis skills: Price Action, Wyckoff market structure, Volume profile, Order flow, Liquidity analysis, Intermarket analysis
->
-> Programming skills: Python, Pandas, Numpy, Matplotlib, JupyterNotebook, SQL, Linux, Git, REST services
+Market analysis skills:
+> Price Action, Wyckoff market structure, Volume profile, Order flow, Liquidity analysis, Intermarket analysis
+
+Programming skills:
+> Python, Pandas, Numpy, Matplotlib, JupyterNotebook, SQL, Linux, Git, REST services
+
+Contact:
+* [Telegram - GeorgeQuantAnalyst](https://t.me/GeorgeQunatAnalyst)
