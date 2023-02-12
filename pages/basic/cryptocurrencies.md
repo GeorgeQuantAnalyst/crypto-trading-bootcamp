@@ -451,4 +451,4 @@ A crypto wallet is a software program that allows you to store, send, and receiv
 
 [Back to table of content](#cryptocurrencies)
 
-[Back](../)
+[Back](../../)

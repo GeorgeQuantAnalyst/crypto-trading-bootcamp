@@ -23,4 +23,4 @@ There are several different types of trading styles that exist in the financial 
 
 Each trading style has its own set of advantages and disadvantages, and the right style for a particular trader will depend on their goals, personality, and level of experience.
 
-[Back](../)
+[Back](../../)
