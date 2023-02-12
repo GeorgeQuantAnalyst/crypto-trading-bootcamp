@@ -9,6 +9,11 @@ Asset classes refer to the different types of financial assets, such as stocks, 
 
 **Table of content**
 * [Stocks](#stocks)
+* [Commodity](#commodity)
+* [Forex](#forex)
+* [Bonds](#bonds)
+* [Cryptocurrencies](#cryptocurrencies)
+* [Real estate](#real-estate)
 
 
 ## Stocks
@@ -220,7 +225,7 @@ Average daily transaction volume on the cryptocurrencies market is around 20 mil
 
 [Back to table of content](#)
 
-## Real estate (REIT)
+## Real estate
 The real estate asset class refers to investments in physical real estate properties or in companies that own and manage real estate assets. Real estate investment can take many forms, including residential and commercial properties, such as apartments, office buildings, retail centers, and warehouses, as well as other real estate assets like land or infrastructure. Investors in real estate can benefit from rental income, appreciation in property values, and other passive income streams, although real estate investments also come with risks, such as fluctuating property values, market trends, and other economic conditions.
 
 * Real estate is considered real property that includes land and anything permanently attached to it or built on it, whether natural or man-made.
