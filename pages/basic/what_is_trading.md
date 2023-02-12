@@ -6,6 +6,10 @@ layout: default
 
 Trading refers to the exchange of goods or assets between two or more parties. This can take place in a variety of contexts, such as buying and selling securities on a stock exchange, bartering for goods or services, or buying and selling currencies on the foreign exchange market. Trading can be conducted by individuals, institutions, or businesses, and it can take place in person, over the phone, or online. The goal of trading is typically to generate profits by buying low and selling high, or by taking advantage of price differences in different markets.
 
+
+<iframe width="770" height="433" src="https://www.youtube.com/embed/PFyZv4OFfvs" title="What is Trading and How Does it Work? For Complete Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## Type of trading styles
 
 There are several different types of trading styles that exist in the financial markets. Some of the most common include:

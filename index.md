@@ -6,13 +6,13 @@ layout: default
 > Cryptocurrencies are digital or virtual currencies that use cryptography for security and operate independently of a central bank. They are decentralized and typically built on blockchain technology, which is a distributed ledger that records all transactions made on the network.
 
 # Basic
-* [What is trading?](pages/what_is_trading.md)
-* [Asset classes](pages/asset_classes.md)
-* [Cryptocurrecy](pages/cryptocurrencies.md)
-* [Trading instruments](pages/trading_instruments.md)
-* [Market participants](pages/market_participants.md)
-* [Cryptocurrencies exchanges](pages/cryptocurrencies_exchange.md)
-* [Type of analysis markets](pages/type_of_analysis_markets.md)
+* [What is trading?](pages/basic/what_is_trading.md)
+* [Asset classes](pages/basic/asset_classes.md)
+* [Cryptocurrecy](pages/basic/cryptocurrencies.md)
+* [Trading instruments](pages/basic/trading_instruments.md)
+* [Market participants](pages/basic/market_participants.md)
+* [Cryptocurrencies exchanges](pages/basic/cryptocurrencies_exchange.md)
+* [Type of analysis markets](pages/basic/type_of_analysis_markets.md)
 
 # Technical analysis
 * [Price action](pages/price_action.md)
