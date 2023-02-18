@@ -1,9 +1,12 @@
 ---
 layout: default
 ---
+```
+Wrote by @GeorgeQuantAnalyst Updated: 9.2.2023
+Reviewed by: @LucyQuantAnalyst (TODO)
+```
 
 # Cryptocurrencies
-Published date: 9.2.2023
 
 **Table of content**
 * [Base information](#base-information)
@@ -11,7 +14,6 @@ Published date: 9.2.2023
 * [Ethereum](#ethereum)
 * [Crypto sectors](#crypto-sectors)
 * [Mechanism consesus](#mechanism-consensus)
-* [Crypto exchanges](#crypto-exchanges)
 * [Crypto wallets](#crypto-wallets)
 * [Top 20 cryptocurrencies by market cap](#top-20-cryptocurrencies-by-market-cap)
 
@@ -303,46 +305,6 @@ This consensus mechanism is based on a network of nodes that maintain a distribu
 
 ### Proof of History
 PoH is a time-stamping mechanism that generates a unique, verifiable hash for each block, allowing nodes to verify the time of blocks without relying on a trusted time source. This mechanism helps Solana achieve high transaction speeds and low fees, making it a popular platform for decentralized applications.
-
-[Back to table of content](#cryptocurrencies)
-
-## Crypto exchanges
-A cryptocurrency exchange is a platform that allows users to buy, sell, and trade cryptocurrencies. These exchanges act as intermediaries between buyers and sellers, facilitating transactions by matching orders and executing trades. Some of the most popular cryptocurrency exchanges include Binance, Coinbase, and Kraken. Exchanges can vary in terms of the types of cryptocurrencies they offer, their fees, and the level of security they provide for users' funds. Some exchanges also offer additional features, such as margin trading and derivatives trading.
-
-
-### What are most used crypto exchanges?
-There are many cryptocurrency exchanges, but some of the most popular and widely used ones include:
-
-* **Binance**: One of the largest and most widely used crypto exchanges in the world, known for its high trading volumes and wide variety of cryptocurrencies available for trading.
-
-* **Coinbase**: One of the most popular exchanges in the US, known for its user-friendly interface and easy buying and selling of cryptocurrencies.
-
-* **Kraken**: A well-established exchange that is popular among professional traders and offers a wide variety of trading pairs.
-
-* **Bitfinex**: A Hong Kong-based exchange that is popular for its margin trading and lending services.
-
-* **Gemini**: A US-based exchange that is known for its compliance with regulations and its focus on security.
-
-* **Huobi**: A Singapore-based exchange that is popular in Asia and offers a wide variety of trading pairs and services.
-
-* **Bittrex**: A US-based exchange that is known for its high security and wide variety of trading pairs.
-
-These are just a few examples, there are many other exchanges that are popular in different regions and countries and offer different features and services.
-
-### What are most used futures crypto exchanges?
-The most used futures crypto exchanges are typically those that offer a wide variety of trading pairs, high liquidity, and advanced trading features such as margin trading and stop-loss orders. Some examples of popular futures crypto exchanges include:
-
-* **Binance**: One of the largest and most popular crypto exchanges in the world, Binance offers a wide range of trading pairs and advanced trading features such as margin trading and stop-loss orders.
-
-* **BitMEX**: A leading crypto derivatives exchange that offers up to 100x leverage on a variety of trading pairs.
-
-* **OKEx**: A crypto exchange that offers a wide range of trading pairs and derivatives trading options such as futures and options.
-
-* **Huobi**: A Singapore-based crypto exchange that offers a wide range of trading pairs and advanced trading features such as margin trading and stop-loss orders.
-
-* **Deribit**: A crypto futures and options exchange that offers high leverage and advanced trading features.
-
-It's important to note that the crypto markets can be highly volatile and trading futures is considered a high risk activity, so it's important to fully understand the risks involved before trading on these exchanges.
 
 [Back to table of content](#cryptocurrencies)
 

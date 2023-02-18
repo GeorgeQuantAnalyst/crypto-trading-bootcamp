@@ -2,9 +2,12 @@
 layout: default
 ---
 
-# Asset classes
-Published date: 12.2.2023
+```
+Wrote by @GeorgeQuantAnalyst Updated: 12.2.2023
+Reviewed by: @LucyQuantAnalyst (TODO)
+```
 
+# Asset classes
 Asset classes refer to the different types of financial assets, such as stocks, bonds, commodities, real estate, and others. Each asset class has its own characteristics and risk/return profile, and investors may choose to allocate their investments among different asset classes to diversify their portfolio and potentially reduce risk. The asset classes can be broadly grouped into two categories: traditional assets (such as stocks, bonds, and cash) and alternative assets (such as real estate, commodities, and hedge funds).
 
 **Table of content**

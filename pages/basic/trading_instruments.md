@@ -2,12 +2,12 @@
 layout: default
 ---
 
-# Trading instruments
 ```
 Wrote by @GeorgeQuantAnalyst Updated: 18.2.2023
 Reviewed by: @LucyQuantAnalyst (TODO)
 ```
 
+# Trading instruments
 The term "trading instruments" refers to various types of financial products that can be traded in the financial markets. Some common examples of trading instruments include spot and derivatives such as futures, options, and swaps.
 
 Each type of trading instrument has its own unique characteristics, advantages, and risks. The choice of which trading instrument to use depends on various factors such as investment goals, risk tolerance, and market conditions.
