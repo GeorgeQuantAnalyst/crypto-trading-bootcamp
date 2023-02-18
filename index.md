@@ -8,11 +8,14 @@ layout: default
 # Basic
 * [What is trading?](pages/basic/what_is_trading.md)
 * [Asset classes](pages/basic/asset_classes.md)
-* [Cryptocurrecy](pages/basic/cryptocurrencies.md)
 * [Trading instruments](pages/basic/trading_instruments.md)
 * [Market participants](pages/basic/market_participants.md)
-* [Cryptocurrencies exchanges](pages/basic/cryptocurrencies_exchange.md)
 * [Type of analysis markets](pages/basic/type_of_analysis_markets.md)
+
+# Cryptocurrencies
+* [Cryptocurrecy](pages/cryptocurrencies/cryptocurrencies.md)
+* [Cryptocurrencies exchanges](pages/cryptocurrencies//cryptocurrencies_exchange.md)
+* [Cryptocurrencies indexes](pages/cryptocurrencies/cryptocurencies_indexes.md)
 
 # Technical analysis
 * [Price action](pages/price_action.md)
@@ -23,6 +26,10 @@ layout: default
 # Fundaments
 * [Macro news](pages/macro_news.md)
 * [Important macro indicators](pages/important_macro_indicators.md)
+
+# Programming basic
+
+# Algotrading
 
 # My favorite books
 * [VOLUME PROFILE: The insider's guide to trading - Trader Dale](https://www.amazon.com/PROFILE-insiders-guide-trading/dp/1718067577)
