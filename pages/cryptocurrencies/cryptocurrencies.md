@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 ```
 Wrote by @GeorgeQuantAnalyst Updated: 9.2.2023
 Reviewed by: @LucyQuantAnalyst (TODO)
