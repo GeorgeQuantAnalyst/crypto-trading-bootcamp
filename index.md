@@ -14,7 +14,7 @@ layout: default
 
 # Cryptocurrencies
 * [Cryptocurrecy](pages/cryptocurrencies/cryptocurrencies.md)
-* [Cryptocurrencies exchanges](pages/cryptocurrencies//cryptocurrencies_exchange.md)
+* [Cryptocurrencies exchanges](pages/cryptocurrencies/exchanges.md)
 * [Cryptocurrencies indexes](pages/cryptocurrencies/cryptocurencies_indexes.md)
 
 # Technical analysis
