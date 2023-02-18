@@ -23,4 +23,15 @@ There are several different types of trading styles that exist in the financial 
 
 Each trading style has its own set of advantages and disadvantages, and the right style for a particular trader will depend on their goals, personality, and level of experience.
 
+## What si better intraday trading one/two assets or build portfolio for swing trading?
+Deciding whether to engage in intraday trading or swing trading with a portfolio of assets depends on several factors, including your personal trading style, risk tolerance, and investment goals.
+
+Intraday trading involves buying and selling assets within the same trading day, with the goal of profiting from short-term price movements. It requires close attention to the markets and quick decision-making skills. Intraday trading can be risky due to the high volatility of short-term price movements, but it also offers the potential for quick profits.
+
+On the other hand, swing trading involves holding assets for a longer period of time, typically from a few days to several weeks, in order to take advantage of price movements that occur over the medium term. Swing trading can be less stressful than intraday trading since it allows for more time to analyze the markets and make trading decisions. It also provides the opportunity to take advantage of larger price movements that may occur over several days or weeks.
+
+Building a portfolio for swing trading can provide diversification benefits and potentially reduce overall portfolio risk. It allows you to take advantage of price movements across multiple assets, rather than relying on the performance of a single asset. However, building a portfolio requires more research and analysis to identify the assets with the greatest potential for price appreciation.
+
+Ultimately, the best approach depends on your individual preferences, trading style, and investment goals. Both intraday trading and swing trading can be profitable if executed with a well-developed trading plan, appropriate risk management strategies, and a disciplined approach to trading.
+
 [Back](../../)
