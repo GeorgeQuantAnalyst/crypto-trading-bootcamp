@@ -3,8 +3,8 @@ layout: default
 ---
 
 ```
-Wrote by @GeorgeQuantAnalyst Updated: 12.2.2023
-Reviewed by: @LucyQuantAnalyst (TODO)
+Wrote by @GeorgeQuantAnalyst - Updated: 12.2.2023
+Reviewed by: @LucyQuantAnalyst - Reviewed: 19.2.2023
 ```
 
 # Asset classes
@@ -32,7 +32,7 @@ The history of the stock market dates back to the 1602, when the Dutch East Indi
 ### Top stock exchanges
 The most famous stock exchanges in the world are the New York Stock Exchange (NYSE) and the NASDAQ, both located in the United States, and the Tokyo Stock Exchange (TSE) in Japan. Other notable stock exchanges include the London Stock Exchange (LSE) in the United Kingdom, the Shanghai Stock Exchange (SSE) in China, and the Euronext stock exchange in Europe. These stock exchanges are some of the largest and most well-known in the world and offer a wide range of investment opportunities for individuals and institutions.
 
-### Most famous stock indexes on world
+### The most famous stock indices in the world
 Some of the most famous stock indexes in the world include:
 
 * **S&P 500**: A market capitalization-weighted index that tracks the performance of 500 large publicly traded companies listed in the US.
@@ -47,7 +47,7 @@ Some of the most famous stock indexes in the world include:
 
 These indexes are widely followed by investors, analysts, and market participants, and are often considered to be a barometer of the health of the broader economy.
 
-### Most traded stocks
+### The most traded stocks
 The most traded stocks can vary depending on the exchange and the specific time period you are considering. However, some of the most commonly traded stocks globally include:
 
 1. Apple Inc. (AAPL)
@@ -92,7 +92,7 @@ There are several well-known commodity exchanges around the world. Some of the m
 
 These exchanges facilitate trading in a variety of commodities, including precious metals, energy products, agricultural products, and industrial metals.
 
-### Most famous commodities indexes on world
+### The most famous commodities indexes in the world
 There are several well-known commodity indexes that track the performance of various commodity markets. Some of the most famous ones include:
 
 * S&P GSCI (Standard & Poor's Goldman Sachs Commodity Index)
@@ -105,7 +105,7 @@ These indexes typically track the performance of a basket of commodities, and ar
 
 **The S&P GSCI (Standard & Poor's Goldman Sachs Commodity Index)** is a composite index of 24 commodity futures contracts representing the major commodity markets including energy, agriculture, industrial metals, and precious metals. It is designed to measure the performance of the commodity markets and is widely used as a benchmark for commodity investments. The index is calculated based on the price changes of the futures contracts and reflects the returns that an investor would receive from a hypothetical investment in the commodity markets. The S&P GSCI is calculated and maintained by Standard & Poor's, a leading provider of financial market information and indices.
 
-### Most traded commodites
+### The most traded commodites
 The most traded commodities in the world include crude oil, natural gas, gold, silver, copper, wheat, corn, soybeans, and sugar. These commodities are widely traded on various commodity exchanges globally and are considered to be the most important due to their high demand and widespread use in various industries, such as energy, agriculture, and construction. The prices of these commodities are closely watched and widely followed by traders, investors, and market participants, as they can have a significant impact on the global economy.
 
 ### Average daily transaction volume on the commodity market
@@ -136,12 +136,12 @@ Forex trading has become increasingly accessible in recent years, with the devel
 ### Decentralized market
 Forex market is decentralized, meaning that it is not controlled by a single exchange or organization. Instead, it is composed of a network of individuals, banks, and other financial institutions that trade currencies between each other. As a result, there is no central authority that can accurately track the traded volume for the entire forex market. However, some of the largest forex brokers, such as IG Group, CMC Markets, and Forex.com, are known for offering forex trading services to a large number of clients globally.
 
-### Most famous Forex indexes on world
+### The most famous Forex indexes in the world
 In the Forex market, there is no widely used stock index equivalent. Instead, the Forex market is primarily dominated by exchange rates between different currencies. Some of the most widely watched and traded currency pairs include the EUR/USD, USD/JPY, GBP/USD, and USD/CHF. These currency pairs are closely watched by traders and investors as they can provide insight into the strength of different economies and can be used as a barometer for the health of the global economy. Additionally, central bank policy decisions and other macroeconomic indicators can also play a major role in determining exchange rates between currencies.
 
 * **US Dollar index (DXY)**: is a measure of the value of the United States dollar relative to a basket of six major foreign currencies. The six currencies that make up the dollar index are the euro, Japanese yen, British pound, Canadian dollar, Swedish krona, and Swiss franc. The dollar index is calculated by taking the weighted average of the exchange rates between the US dollar and each of the six currencies. The dollar index is widely used as a benchmark for the strength of the US dollar in the foreign exchange market and as a gauge of the US dollar's performance against other currencies.
 
-### Most traded forex pairs
+### The most traded forex pairs
 The most traded currency pairs in the forex market are typically referred to as the "majors". The majors include the EUR/USD (Euro/U.S. Dollar), USD/JPY (U.S. Dollar/Japanese Yen), GBP/USD (British Pound/U.S. Dollar), USD/CHF (U.S. Dollar/Swiss Franc), USD/CAD (U.S. Dollar/Canadian Dollar), and AUD/USD (Australian Dollar/U.S. Dollar). These currency pairs account for a large portion of the total forex market volume and are considered to be the most liquid currency pairs in the market.
 
 ### Average daily transaction volume on the Forex market
@@ -171,10 +171,10 @@ The bond market is a crucial component of the global financial system, providing
 ### Top bond exchanges
 The most famous bond exchanges in the world include the London Stock Exchange (LSE), the New York Stock Exchange (NYSE), and the Tokyo Stock Exchange (TSE). The NYSE is one of the largest bond exchanges in the world, with a wide range of bonds traded on its platform, including corporate bonds, government bonds, municipal bonds, and others. Other major bond exchanges around the world include the Euronext, the Deutsche Börse, and the Swiss Stock Exchange, among others.
 
-### Most famous bond indexes on world
+### The most famous bond indexes in the world
 Some of the most famous bond indexes in the world include the Bloomberg Barclays US Aggregate Bond Index, the JPMorgan Emerging Markets Bond Index, and the Citigroup World Government Bond Index. These indexes track the performance of various bond markets and are used as benchmarks for the performance of individual bonds, bond funds, and other fixed income investments. The bond market is a large and complex marketplace, and these indexes help investors understand the performance of various segments of the market, as well as the overall health of the bond market.
 
-### Most traded bonds
+### The most traded bonds
 The most traded bonds in the world vary depending on a number of factors, including the state of the economy, interest rate trends, and geopolitical events. Some of the most commonly traded bonds include U.S. Treasury bonds, which are considered to be among the safest and most liquid bonds in the world, as well as corporate bonds issued by large, creditworthy companies. Other widely traded bonds include municipal bonds, which are issued by state and local governments, and high-yield bonds, which offer higher yields but come with a higher degree of risk. The exact composition of the most traded bonds can change over time, so it's important to stay up to date on current market conditions.
 
 ### Average daily transaction volume on the bond market
@@ -203,12 +203,12 @@ Despite their relative youth, cryptocurrencies have already had a significant im
 ### Top crytocurrencies exchanges
 The top cryptocurrency exchanges in terms of trading volume are Binance, Huobi, and OKEx. These exchanges are known for their large selection of cryptocurrencies, as well as their user-friendly interfaces and security measures. Other popular cryptocurrency exchanges include Coinbase, Kraken, and Bitfinex. The exact ranking of these exchanges may change over time as trading volumes and user preferences evolve.
 
-### Most famous cryptocurrency indexes on world
+### The most famous cryptocurrency indexes in the world
 Cryptocurrency indexes are used by traders to track the performance of a basket of cryptocurrencies, much like a stock index tracks the performance of a basket of stocks. Some of the most well-known cryptocurrency indexes include the CoinMarketCap Top 100 Index, the Bitwise 10 Crypto Index, and the Bloomberg Galaxy Crypto Index. These indexes are designed to provide a benchmark for the broader cryptocurrency market, and they can be useful for investors who want to track the overall performance of the sector, as well as for traders who are looking to gain exposure to the market through index-linked products.
 
 **CoinMarketCap Top 100 Index** is a benchmark index that tracks the performance of the 100 largest cryptocurrencies by market capitalization, as listed on CoinMarketCap. The index is calculated based on the total market capitalization of each cryptocurrency, as well as its trading volume, liquidity, and other factors. The index is considered to be a good representation of the overall health of the cryptocurrency market, as it covers a large portion of the market and provides a comprehensive view of its performance. The CoinMarketCap Top 100 Index is updated on a daily basis and can be used by traders and investors as a benchmark for their investments in the cryptocurrency market.
 
-### Most traded cryptocurrencies
+### The most traded cryptocurrencies
 * Bitcoin - Bitcoin is a decentralized digital currency that uses cryptography to secure transactions and control the creation of new units, with a limited total supply of 21 million.
 * Ethereum - Ethereum is a decentralized, open-source blockchain platform that enables the creation and deployment of smart contracts and decentralized applications (dApps).
 * Binance Coin - Binance Coin (BNB) is a cryptocurrency created by the Binance exchange as a utility token for paying for fees and other services on the Binance platform, with the potential to also be used for other purposes in the Binance ecosystem.
@@ -262,7 +262,7 @@ The top real estate exchanges vary depending on the region, but some of the most
 * The Australian Securities Exchange (ASX), which has a number of real estate trusts and property companies listed on it
 * The Toronto Stock Exchange (TSX), which also has a number of real estate trusts and property companies listed on it
 
-### Most famous real estate indexes on world
+### The most famous real estate indexes in the world
 Real estate indexes are indices that track the performance of the real estate market or specific segments of the real estate market, such as the residential, commercial, or industrial real estate markets. Some of the most famous real estate indexes include:
 
 * S&P/Case-Shiller Home Price Index: This index tracks the average home price in 20 major cities across the United States.
@@ -275,7 +275,7 @@ Real estate indexes are indices that track the performance of the real estate ma
 
 * Global Real Estate Observatory (GRESB) Real Estate Sustainability Index: This index measures the sustainability performance of real estate companies and funds around the world.
 
-### Most traded REITs on world
+### The most traded REITs on world
 REITs, or Real Estate Investment Trusts, are securities that are traded on the stock market and represent ownership in a portfolio of real estate properties. Some of the most widely traded REITs on the world include Simon Property Group, Prologis, Inc., Equity Residential, and Public Storage. These REITs invest in a variety of property types, including apartments, office buildings, retail space, and industrial properties. The popularity of REITs has grown in recent years due to the steady income they generate from rental income and their potential for capital appreciation. The average daily trading volume of REITs can vary depending on the specific security and market conditions.
 
 ### Average daily transaction volume on the REITs market

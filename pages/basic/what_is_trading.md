@@ -4,7 +4,7 @@ layout: default
 
 ```
 Wrote by @GeorgeQuantAnalyst Updated: 12.2.2023
-Reviewed by: @LucyQuantAnalyst (TODO)
+Reviewed by: @LucyQuantAnalyst - Reviewed: 19.2.2023
 ```
 
 # What is trading?
@@ -28,7 +28,7 @@ There are several different types of trading styles that exist in the financial 
 
 Each trading style has its own set of advantages and disadvantages, and the right style for a particular trader will depend on their goals, personality, and level of experience.
 
-## What si better intraday trading one/two assets or build portfolio for swing trading?
+## What is better intraday trading one/two assets or build portfolio for swing trading?
 Deciding whether to engage in intraday trading or swing trading with a portfolio of assets depends on several factors, including your personal trading style, risk tolerance, and investment goals.
 
 Intraday trading involves buying and selling assets within the same trading day, with the goal of profiting from short-term price movements. It requires close attention to the markets and quick decision-making skills. Intraday trading can be risky due to the high volatility of short-term price movements, but it also offers the potential for quick profits.
