@@ -80,7 +80,6 @@ Kraken has built a reputation for providing high levels of security and regulato
 ## Derivatives crypto exchanges
 A derivatives cryptocurrency exchange is a type of cryptocurrency exchange that specializes in trading cryptocurrency derivatives, such as futures, options, and swaps. These exchanges allow traders to take positions on the future price movements of cryptocurrencies without actually buying or selling the underlying assets. Derivatives exchanges may also offer leverage, allowing traders to control larger positions with smaller amounts of capital. Derivatives exchanges can be popular among more experienced traders who are looking for ways to manage risk and maximize profits. However, derivatives trading can also be complex and carries additional risks, so it's important for traders to have a solid understanding of the products and markets before getting involved.
 
-TODO George: write review top 3 (description, pros, disadvantages, review page, exchange page)
 
 ### Binance
 Binance is a cryptocurrency exchange that was founded in 2017 by Changpeng Zhao. It is one of the largest and most popular cryptocurrency exchanges in the world, with a wide range of trading pairs and low trading fees. Binance offers a variety of services, including spot trading, margin trading, futures trading, and more. The exchange has its own cryptocurrency, called Binance Coin (BNB), which can be used to pay for trading fees and other services on the platform. Binance is known for its user-friendly interface, advanced trading features, and strong security measures.
@@ -142,8 +141,6 @@ OKEx is a cryptocurrency exchange that was founded in 2017 and is based in Malta
 A DEX (decentralized exchange) is a type of cryptocurrency exchange that operates in a decentralized manner, meaning that it is not controlled by a single entity or central authority. Instead, a DEX operates through a distributed network of nodes, with each node contributing to the exchange's overall functionality.
 
 DEXs are often based on blockchain technology, which allows for a trustless and transparent exchange of digital assets. This means that traders can trade directly with one another without the need for an intermediary such as a centralized exchange. DEXs can offer a number of advantages over centralized exchanges, including increased security, privacy, and censorship resistance. However, DEXs may also face some limitations in terms of liquidity and trading volume.
-
-TODO George: write review top 3 (description, pros, disadvantages, review page, exchange page)
 
 ### Uniswap
 Uniswap is a decentralized cryptocurrency exchange (DEX) that allows for the exchange of Ethereum-based tokens. It was launched in November 2018 and is built on the Ethereum blockchain. Uniswap uses an automated market maker (AMM) system, which is a type of decentralized exchange that relies on mathematical algorithms to set prices based on the supply and demand of assets in the market.
