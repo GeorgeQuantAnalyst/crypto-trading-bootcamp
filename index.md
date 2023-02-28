@@ -13,7 +13,7 @@ layout: default
 * [Type of analysis markets](pages/basic/type_of_analysis_markets.md)
 
 # Cryptocurrencies
-* [Cryptocurrecy](pages/cryptocurrencies/cryptocurrencies.md)
+* [Cryptocurrecies](pages/cryptocurrencies/cryptocurrencies.md)
 * [Cryptocurrencies exchanges](pages/cryptocurrencies/exchanges.md)
 * [Cryptocurrencies indexes](pages/cryptocurrencies/cryptocurencies_indexes.md)
 
