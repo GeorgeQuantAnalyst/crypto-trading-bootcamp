@@ -16,8 +16,8 @@
 title: Crypto Trading Bootcamp
 description: A Jekyll theme for documentation
 baseurl: "/crypto-trading-bootcamp" # the subpath of your site, e.g. /blog
-url: "https://crypto-trading-bootcamp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository: crypto-trading-bootcamp/crypto-trading-bootcamp # for github-metadata
+url: "https://georgequantanalyst.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository:  GeorgeQuantAnalyst/crypto-trading-bootcamp # for github-metadata
 
 permalink: pretty
 
