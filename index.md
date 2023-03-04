@@ -1,63 +1,62 @@
 ---
 layout: default
+title: Home
+nav_order: 1
+description: "Bootcamp focused on basic information about capital markets especially cryptocurrencies, technical analysis (Price Action, Volume profile, Order flow and Market structure) and algorithmic trading in programming language Python. Informations write on this blog was collected over years by trading and learning from other analysts, traders and programmers."
+permalink: /
 ---
 
-**What is cryptocurrencies?**
-> Cryptocurrencies are digital or virtual currencies that use cryptography for security and operate independently of a central bank. They are decentralized and typically built on blockchain technology, which is a distributed ledger that records all transactions made on the network.
+# Crypto Trading Bootcamp
+{: .fs-9 }
 
-# Basic
-* [What is trading?](pages/basic/what_is_trading.md)
-* [Asset classes](pages/basic/asset_classes.md)
-* [Trading instruments](pages/basic/trading_instruments.md)
-* [Market participants](pages/basic/market_participants.md)
-* [Type of analysis markets](pages/basic/type_of_analysis_markets.md)
+Bootcamp focused on basic information about capital markets especially cryptocurrencies, technical analysis (Price Action, Volume profile, Order flow and Market structure) and algorithmic trading in programming language Python. Informations write on this blog was collected over years by trading and learning from other analysts, traders and programmers.
 
-# Cryptocurrencies
-* [Cryptocurrecies](pages/cryptocurrencies/cryptocurrencies.md)
-* [Cryptocurrencies exchanges](pages/cryptocurrencies/exchanges.md)
-* [Cryptocurrencies indexes](pages/cryptocurrencies/cryptocurencies_indexes.md)
 
-# Technical analysis
-* [Price action](pages/price_action.md)
-* [Volume profile analysis](pages/volume_profile_analysis.md)
-* [Market structure by Wyckoff](pages/market_structure_by_wyckoff.md)
-* [Order flow analysis](pages/order_flow_analysis.md)
+{: .fs-6 .fw-300 }
 
-# Fundaments
-* [Macro news](pages/macro_news.md)
-* [Important macro indicators](pages/important_macro_indicators.md)
-
-# Programming basic
-
-# Algotrading
-
-# My favorite books
-* [VOLUME PROFILE: The insider's guide to trading - Trader Dale](https://www.amazon.com/PROFILE-insiders-guide-trading/dp/1718067577)
-* [ORDER FLOW: Trading Setups (The Insider's Guide To Trading)- Trader Dale](https://www.amazon.com/PROFILE-insiders-guide-trading/dp/1718067577)
-* [The Wyckoff Methodology in Depth: How to trade financial markets logically -  Rubén Villahermosa](https://www.amazon.com/Wyckoff-Methodology-Depth-financial-logically-ebook/dp/B07YXZ7VLZ/ref=sr_1_1?crid=2RW61543YIWH1&keywords=wyckoff&qid=1675859323&s=books&sprefix=wyckoff%2Cstripbooks-intl-ship%2C170&sr=1-1)
-* [Wyckoff 2.0: Structures, Volume Profile and Order Flow - Rubén Villahermosa](https://www.amazon.com/Wyckoff-2-0-Structures-Investing-Technical-ebook/dp/B08W215T4S/ref=sr_1_2?crid=2RW61543YIWH1&keywords=wyckoff&qid=1675859217&s=books&sprefix=wyckoff%2Cstripbooks-intl-ship%2C170&sr=1-2)
-* [Gold: The Once and Future Money - Nathan Lewis](https://www.amazon.com/Gold-Future-Money-Nathan-Lewis/dp/0470047666/ref=sr_1_1?crid=2OYVGHJ45L5XD&keywords=gold+the+once+and+future+money&qid=1675859262&s=books&sprefix=Gold%3A+The+Once+and+Future+Money%2Cstripbooks-intl-ship%2C178&sr=1-1)
+[What is trading](#what-is-trading){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[What is cryptocurrencies](#cryptocurrencies){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
-<center>
-<h2>About George Quant Analyst</h2>
-</center>
 
-<table>
-<tr>
-<td>
-<img src="images/profile.jpeg" width="300" />
-</td>
-<td>
-<b>I am passionate quantitative analyst/trader focus on trading blockchain commodities.</b>
-</td>
-</tr>
-</table>
+## What is trading
+Trading refers to the exchange of goods or assets between two or more parties. This can take place in a variety of contexts, such as buying and selling securities on a stock exchange, bartering for goods or services, or buying and selling currencies on the foreign exchange market. Trading can be conducted by individuals, institutions, or businesses, and it can take place in person, over the phone, or online. The goal of trading is typically to generate profits by buying low and selling high, or by taking advantage of price differences in different markets.
 
-**Market analysis skills**:
-> Price Action, Wyckoff market structure, Volume profile, Order flow, Liquidity analysis, Intermarket analysis
+[View more][basic]{: .btn .btn-purple }
 
-**Programming skills**:
-> Python, Pandas, Numpy, Matplotlib, JupyterNotebook, SQL, Linux, Git, REST services
 
-**Contact**: [Telegram - GeorgeQuantAnalyst](https://t.me/GeorgeQunatAnalyst)
+## Cryptocurrencies
+Cryptocurrencies are digital or virtual currencies that use cryptography for security and operate independently of a central bank. They are decentralized and typically built on blockchain technology, which is a distributed ledger that records all transactions made on the network. The most well-known cryptocurrency is Bitcoin, but there are many other types of cryptocurrencies, such as Ethereum, Litecoin, and Ripple. Cryptocurrencies can be bought and sold on digital currency exchanges, and can also be used to purchase goods and services online. Transactions made with cryptocurrencies are recorded on a public ledger and are verified by a network of computers, making them more secure and transparent than traditional forms of currency.
+
+### What are cryptocurrencies used for?
+Cryptocurrencies are primarily used as a digital medium of exchange. They are decentralized and operate on a blockchain network, which is a distributed ledger technology that records and verifies transactions. Cryptocurrencies can be used to make purchases, transfer money, and store value. They can also be used for more advanced applications such as smart contracts and decentralized applications (dApps). Some people also use cryptocurrencies as an investment, buying and holding them with the expectation that their value will increase over time. Bitcoin, the first and most well-known cryptocurrency, was created in 2009 with the goal of providing a decentralized alternative to traditional fiat currencies.
+
+{: .note }
+**Use cases**: Digital currencies, Supply chain management, Decentralized applications, NFTs and Voting systems...
+
+[View more][cryptocurrencies]{: .btn .btn-purple }
+
+## About us
+
+### George Quant Analyst
+
+<img src="assets/images/george.jpeg" width="200" />
+
+George is passionate quant analyst and trader focused on trading futures contracts on cryptocurrencies.
+
+### Lucy Quant Analyst
+<img src="assets/images/lucy.jpeg" width="200" />
+
+Lucy is trader focused on trading futures contracts on cryptocurrencies and software tester.
+
+### Our skills
+
+**Market analysis:**
+> Price Action, Volume profile, Order flow, Wyckoff market structure, Liquidity analysis, Intermarket analysis
+
+**Programming:**
+> Python, Pandas, Numpy, Matplotlib, JupyterNotebook, SQL, Linux, Markdown, Jekyll, Git, REST services
+
+
+[cryptocurrencies]: {% link docs/cryptocurrencies/cryptocurrencies.md %}
+[basic]: {% link docs/basic/basic.md %}
