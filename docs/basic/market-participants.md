@@ -6,12 +6,8 @@ nav_order: 4
 ---
 
 # Market participants
-Updated: 12.2.2023 by Lucy
+Updated: 6.3.2023 by Lucy
 {: .label .label-purple }
-
-Reviewed:  by George
-{: .label .label-green }
-
 
 Market participants on financial markets are individuals, companies, institutions, and governments who buy or sell financial securities, such as stocks, bonds, commodities, currencies, and derivatives.
 
