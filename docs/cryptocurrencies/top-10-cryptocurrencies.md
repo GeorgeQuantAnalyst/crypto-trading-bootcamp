@@ -6,8 +6,11 @@ nav_order: 2
 ---
 
 # Top 10 cryptocurrencies
-Updated: 9.2.2023 by George
+Updated: 8.3.2023 by Lucy
 {: .label .label-purple }
+
+Reviewed: 8.3.2023 by Lucy
+{: .label .label-green }
 
 The selection of the top 10 cryptocurrencies was based on the CMC 10 index. This index tracking the performance of the top 10 digital assets by market capitalization, relative to the base currency of USD.
 
@@ -156,13 +159,16 @@ One unique aspect of XRP is that all of the tokens were pre-mined at the time of
 Ripple's primary goal is to provide a fast and secure way for financial institutions to settle cross-border payments. Its network allows banks and other financial institutions to send and receive payments in different currencies in real-time, with very low transaction fees.
 
 ### Significant forks
-There are several forks of the Ripple network that have emerged since the network was created. However, since Ripple is a private company and Ripple Labs controls the network, not all of these forks are official.
+**Official forks**:
+* XRP Ledger: Open blockchain and platform for digital payments. The XRP Ledger is designed to be faster and cheaper than Bitcoin and other cryptocurrencies. It also allows developers to create their own tokens that can be used for various purposes, such as ICOs.
+* Stellar: Created by Jed McCaleb, a co-founder of Ripple. Stellar focuses on financial services for the poor and supports fast and inexpensive international payments. Stellar uses its own consensus mechanism, which is called the Stellar Consensus Protocol.
 
-One of the official forks is the XRP Ledger, which is an open blockchain and platform for digital payments. The XRP Ledger is designed to be faster and cheaper than Bitcoin and other cryptocurrencies. It also allows developers to create their own tokens that can be used for various purposes, such as ICOs.
+**Unofficial forks**:
+* Ripple Cash
+* RippleFox
 
-Another fork of the Ripple network is Stellar, which was created by Jed McCaleb, a co-founder of Ripple. Stellar focuses on financial services for the poor and supports fast and inexpensive international payments. Stellar uses its own consensus mechanism, which is called the Stellar Consensus Protocol.
-
-There are also other unofficial forks of the Ripple network, such as Ripple Cash, RippleFox, and others, which attempt to provide alternative ways to use the Ripple network. However, most of these forks do not have the same support and recognition as the official XRP Ledger and Stellar.
+{: .note }
+Most of these unofficial forks do not have the same support and recognition as the official XRP Ledger and Stellar.
 
 ## Cardano (ADA)
 2017
@@ -193,6 +199,15 @@ Overall, the Ouroboros PoS consensus mechanism on Cardano is designed to be high
 ### An Example of purpose
 ADA is used as the native currency of the Cardano platform and can be used for a variety of purposes, including paying transaction fees, staking to participate in the network's consensus mechanism, and as a means of exchange on cryptocurrency exchanges.
 
+### Forks of Cardano
+One of them are simply copies of Cardano's code with minor changes such as:
+* Cardano Classic: Aims to restore some of the original features of Cardano, such as the Ouroboros Classic consensus algorithm
+* Cardano Diamond: Aims to provide faster and cheaper transactions through the implementation of a new consensus algorithm called Proof of Authority.
+
+Others are entirely new projects that leverage Cardano's technology such as:
+* CardStarter: It provides fundraising and launchpad services for early-stage Cardano-based projects.
+* Cardano Protocol for Sustainability: Aimed at creating a sustainable funding model for the Cardano ecosystem.
+
 ## Polygon (MATIC)
 2017
 {: .label .label-green }
@@ -214,6 +229,10 @@ Transactions that occur on the Matic Network's child chains are validated by a s
 
 ### An Example of purpose
 One of the key features of the Matic Network is its Plasma-based scaling solution, which is designed to enable faster and more efficient transactions on the network Ethereum.
+
+### Forks of Polygon
+* Polygon Matic: Aims to improve the scalability and usability of the Ethereum blockchain
+* QuickSwap: A decentralized exchange built on Polygon with lower fees and faster transactions
 
 ## Solana (SOL)
 2017
@@ -242,6 +261,11 @@ In addition to validating transactions and adding new blocks to the blockchain, 
 ### An Example of purpose
 The native cryptocurrency of the Solana platform is called SOL. SOL is used to pay for transaction fees on the network, as well as for staking to participate in the network's consensus mechanism. SOL can also be used as a means of exchange on cryptocurrency exchanges.
 
+### Forks of Solana
+
+{: .note }
+There have been a few forks of Solana, including SolanaX, Solana Cash, and Solanium, which aim to improve upon different aspects of the Solana ecosystem, but they are not widely adopted or recognized as official forks.
+
 ## Polkadot (DOT)
 2019
 {: .label .label-green }
@@ -263,6 +287,12 @@ The consensus mechanism used by the Polkadot network is called "Nominated Proof-
 
 ### An Example of purpose
 The native cryptocurrency of the Polkadot platform is called DOT. DOT is used to pay for transaction fees on the network, as well as for staking to participate in the network's consensus mechanism. DOT can also be used as a means of exchange on cryptocurrency exchanges.
+
+### Forks of Polkadot
+* Kusama: Canary network designed for experimenting with new ideas and technologies before they are deployed on Polkadot.
+* Moonbeam: Smart contract platform that aims to provide Ethereum compatibility on Polkadot.
+* Shiden: Sister network of Kusama and offers a more optimized infrastructure for dApps and DeFi.
+* Clover: Polkadot parachain that focuses on providing interoperability and scalability for decentralized finance (DeFi) applications.
 
 ## Litecoin
 2011
@@ -288,6 +318,13 @@ The total supply of Litecoin is also higher than Bitcoin's. While Bitcoin has a 
 ### An Example of purpose
 One of the main purposes of Litecoin is to serve as a store of value and medium of exchange, similar to traditional fiat currencies. However, unlike fiat currencies, Litecoin operates on a decentralized system, allowing for peer-to-peer transactions without the need for intermediaries such as banks. This allows for greater financial freedom and autonomy for individuals and businesses.
 
+### Forks of Litecoin
+* Litecoin Cash (LCC): Aimed to increase block size and block rewards
+* Litecoin Plus (LCP): Claims to have faster transactions and lower fees
+
+{: .note }
+However, it's important to note that these forks are not officially recognized by the Litecoin project.
+
 ## Tron
 2017
 {: .label .label-green }
@@ -307,3 +344,7 @@ The consensus mechanism used by the TRON network is called "Delegated Proof of S
 One of the key features of the TRON platform is its focus on content sharing and distribution. The platform includes a content distribution network (CDN) that enables users to share and distribute content without relying on centralized platforms such as YouTube or Facebook. This can help to reduce the power and influence of centralized platforms and give more control to content creators and users.
 
 The native cryptocurrency of the TRON platform is called TRX. TRX is used to pay for transaction fees on the network, as well as for staking to participate in the network's consensus mechanism. TRX can also be used as a means of exchange on cryptocurrency exchanges
+
+### Forks of Tron
+{: .note }
+There are currently no known forks of the Tron blockchain.
