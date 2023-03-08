@@ -11,16 +11,17 @@ Updated: 6.3.2023 by Lucy
 
 Market participants on financial markets are individuals, companies, institutions, and governments who buy or sell financial securities, such as stocks, bonds, commodities, currencies, and derivatives.
 
-## Some of them are:
-**Individuals**:
-* Investors are one of the major market participants on financial markets who use their own funds to invest in financial assets with the aim of generating profits over time.
-* Traders are another type of market participant who buy and sell financial assets with the aim of profiting from short-term price movements in the market.
-* Speculators are market participants who take high-risk positions in the hope of making a profit, often using leverage to amplify their returns.
+Some of them are:
 
 **Institutions**:
 * Banks and other financial institutions are also important market participants who facilitate trading activities, provide liquidity, and offer various financial services to investors and traders.
 * Governments are also market participants who issue bonds to finance their operations and manage their currency to influence their economy's performance.
 * Hedge funds, mutual funds, and other asset management firms are also significant market participants who invest on behalf of their clients and manage large portfolios of financial assets.
+
+**Individuals**:
+* Investors are one of the major market participants on financial markets who use their own funds to invest in financial assets with the aim of generating profits over time.
+* Traders are another type of market participant who buy and sell financial assets with the aim of profiting from short-term price movements in the market.
+* Speculators are market participants who take high-risk positions in the hope of making a profit, often using leverage to amplify their returns.
 
 **Others**:
 * Market makers are market participants who buy and sell financial assets with the aim of providing liquidity to the market and maintaining a stable price.
