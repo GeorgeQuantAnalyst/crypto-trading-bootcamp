@@ -52,7 +52,7 @@ In real life, smart contracts can be used for a wide range of applications, incl
 Bitcoin is a decentralized digital currency, without a central bank or single administrator, that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries. Transactions are verified by network nodes through cryptography and recorded in a public distributed ledger called a blockchain. Bitcoin is unique in that there are a finite number of them: 21 million. Bitcoins are created as a reward for a process known as mining. They can be exchanged for other currencies, products, and services.
 Users can also send and receive bitcoins as a form of payment with appropriate wallets. Bitcoin is often referred to as the first cryptocurrency and is considered the most widely used and successful digital currency.
 
-### How work Bitcoin?
+### How does BTC work?
 Bitcoin is a decentralized digital currency that uses cryptography to secure and verify transactions on its network. Transactions are recorded on a public ledger called the blockchain, which is a chain of blocks that contains a record of all Bitcoin transactions.
 
 To use Bitcoin, a user needs to have a digital wallet, which is a software program that stores their Bitcoin balance and allows them to send and receive Bitcoin. When a user wants to make a transaction, they broadcast a message to the network, which includes the details of the transaction, such as the amount of Bitcoin being sent and the address of the recipient's wallet.
@@ -61,7 +61,7 @@ Miners on the network then validate the transaction by solving complex mathemati
 
 Bitcoin transactions are processed by a decentralized network of computers, which makes it resistant to censorship and fraud. It also means that no single person or institution controls the currency, which is why it is often referred to as a decentralized digital currency.
 
-### Example purpose of Bitcoin
+### An example of the purpose of BTC
 * One of the main purposes of Bitcoin is to serve as a store of value and medium of exchange, similar to traditional fiat currencies. However, unlike fiat currencies, Bitcoin operates on a decentralized system, allowing for peer-to-peer transactions without the need for intermediaries such as banks. This allows for greater financial freedom and autonomy for individuals and businesses.
 
 * Another purpose of Bitcoin is to act as a hedge against inflation, as the supply of bitcoin is limited to 21 million coins, and the rate at which new coins are created is predetermined and decreases over time. Additionally, Bitcoin can also be used as a form of investment, as its price can fluctuate significantly in response to market demand and investor sentiment.
@@ -75,7 +75,7 @@ Bitcoin transactions are processed by a decentralized network of computers, whic
 ### What is Ethereum?
 Ethereum is an open-source, decentralized blockchain platform that enables the creation and execution of smart contracts and decentralized applications (dApps). It was first proposed in 2013 by Vitalik Buterin, a programmer and co-founder of Bitcoin Magazine. Ethereum uses its own cryptocurrency, Ether (ETH), as a medium of exchange for transactions on its network. One of the key differences between Ethereum and Bitcoin is that while Bitcoin is primarily used as a digital currency, Ethereum is designed to be a platform for decentralized applications. This means that in addition to being used as a medium of exchange, Ether can also be used to pay for the computational services required to run dApps on the Ethereum network.
 
-### How Ethereum work?
+### How does Ethereum work?
 Ethereum is a decentralized, open-source blockchain platform that enables the creation of smart contracts and decentralized applications (dApps). It was created in 2015 by Vitalik Buterin and other developers.
 
 Like Bitcoin, Ethereum uses a blockchain to record and verify transactions. However, unlike Bitcoin, which is primarily designed as a digital currency, Ethereum is intended to be a platform for building decentralized applications.
@@ -88,7 +88,7 @@ Ethereum also supports decentralized applications, or dApps, which are applicati
 
 Ethereum works on a consensus mechanism called Proof of Stake (PoS) where the validators are chosen based on the number of tokens they hold and are willing to "stake" (or lock up) as collateral. This is different from Bitcoin which uses Proof of Work (PoW) where validators, called "miners," are chosen based on their computational power.
 
-### Example to use ethereum?
+### Example of using Ethereum
 One example of how Ethereum can be used is in decentralized finance (DeFi) applications. These are financial applications that run on the Ethereum blockchain and allow users to perform financial transactions and manage their assets without the need for a centralized intermediary. Some examples of DeFi applications include decentralized exchanges, lending platforms, and stablecoins.
 
 Another example of how Ethereum can be used is in the creation and execution of smart contracts. A smart contract is a self-executing contract with the terms of the agreement written directly into lines of code. Smart contracts can be used to facilitate, verify, and enforce the negotiation or performance of a contract.

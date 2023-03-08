@@ -35,7 +35,7 @@ Users can also send and receive bitcoins as a form of payment with appropriate w
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/Gc2en3nHxA4" title="What is Bitcoin? (v2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### How work
+### How it works
 Bitcoin is a decentralized digital currency that uses cryptography to secure and verify transactions on its network. Transactions are recorded on a public ledger called the blockchain, which is a chain of blocks that contains a record of all Bitcoin transactions.
 
 To use Bitcoin, a user needs to have a digital wallet, which is a software program that stores their Bitcoin balance and allows them to send and receive Bitcoin. When a user wants to make a transaction, they broadcast a message to the network, which includes the details of the transaction, such as the amount of Bitcoin being sent and the address of the recipient's wallet.
@@ -44,12 +44,18 @@ Miners on the network then validate the transaction by solving complex mathemati
 
 Bitcoin transactions are processed by a decentralized network of computers, which makes it resistant to censorship and fraud. It also means that no single person or institution controls the currency, which is why it is often referred to as a decentralized digital currency.
 
-### Example purpose
+### An Example of purpose
 * One of the main purposes of Bitcoin is to serve as a store of value and medium of exchange, similar to traditional fiat currencies. However, unlike fiat currencies, Bitcoin operates on a decentralized system, allowing for peer-to-peer transactions without the need for intermediaries such as banks. This allows for greater financial freedom and autonomy for individuals and businesses.
 
 * Another purpose of Bitcoin is to act as a hedge against inflation, as the supply of bitcoin is limited to 21 million coins, and the rate at which new coins are created is predetermined and decreases over time. Additionally, Bitcoin can also be used as a form of investment, as its price can fluctuate significantly in response to market demand and investor sentiment.
 
 * In terms of how it works, Bitcoin relies on a technology called blockchain, which is a decentralized public ledger that records all bitcoin transactions. Transactions are grouped together in blocks, and each block is linked to the one before it, creating a chain of blocks (hence the name "blockchain"). Miners, who are individuals or organizations that contribute computing power to the network, compete to solve complex mathematical problems in order to validate transactions and add new blocks to the blockchain. In return, they are rewarded with newly minted bitcoins.
+
+### Significant forks
+* Bitcoin Cash (BCH): Increased block size for faster transactions
+* Bitcoin Gold (BTG): Switched to mining algorithm that could be run on GPU instead of specialized ASICs
+* Bitcoin SV (BSV): Aimed to increase block size limit and bring back original Bitcoin protocol
+* Bitcoin Diamond (BCD): Increased the block size limit to 8MB and lowered the transaction fees, aiming to make Bitcoin more accessible to people in developing countries
 
 ## Ethereum (ETH)
 2015
@@ -64,7 +70,7 @@ Ethereum is an open-source, decentralized blockchain platform that enables the c
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/3ehaSqwUZ0s" title="What is Ethereum Gas? (Examples + Easy Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### How work
+### How it works
 Ethereum is a decentralized, open-source blockchain platform that enables the creation of smart contracts and decentralized applications (dApps). It was created in 2015 by Vitalik Buterin and other developers.
 
 Like Bitcoin, Ethereum uses a blockchain to record and verify transactions. However, unlike Bitcoin, which is primarily designed as a digital currency, Ethereum is intended to be a platform for building decentralized applications.
@@ -77,7 +83,7 @@ Ethereum also supports decentralized applications, or dApps, which are applicati
 
 Ethereum works on a consensus mechanism called Proof of Stake (PoS) where the validators are chosen based on the number of tokens they hold and are willing to "stake" (or lock up) as collateral. This is different from Bitcoin which uses Proof of Work (PoW) where validators, called "miners," are chosen based on their computational power.
 
-### Example purpose
+### An Example of purpose
 One example of how Ethereum can be used is in decentralized finance (DeFi) applications. These are financial applications that run on the Ethereum blockchain and allow users to perform financial transactions and manage their assets without the need for a centralized intermediary. Some examples of DeFi applications include decentralized exchanges, lending platforms, and stablecoins.
 
 Another example of how Ethereum can be used is in the creation and execution of smart contracts. A smart contract is a self-executing contract with the terms of the agreement written directly into lines of code. Smart contracts can be used to facilitate, verify, and enforce the negotiation or performance of a contract.
@@ -85,6 +91,12 @@ Another example of how Ethereum can be used is in the creation and execution of 
 Additionally, Ethereum can be used to create and run Decentralized Autonomous Organizations (DAOs) which are organizations that are run by code and not by people, this is possible through the use of smart contracts in Ethereum.
 
 Overall, Ethereum provides a platform for developers to build a wide range of decentralized applications, and has the potential to revolutionize various industries by providing trustless, transparent and secure solutions.
+
+### Significant forks
+* Ethereum Classic (ETC): Created to preserve the original blockchain after a contentious hard fork to reverse the DAO hack
+* Ether Zero (ETZ): Aims to create a more efficient and scalable platform with a faster block time and lower fees, among other technical improvements
+* Ethereum Fog (ETF): It was created in December 2017 and offers lower fees and faster transactions.
+* Ethereum Nowa (ETN): Was a contentious hard fork of Ethereum that was considered by many to be a scam, as it was not widely supported and lacked a clear development roadmap or community backing. The project was eventually abandoned and the value of the token became effectively worthless.
 
 ## Binance coin (BNB)
 2017
@@ -98,7 +110,7 @@ BNB is the native cryptocurrency of the Binance exchange, which is one of the la
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/G0gmPW8N88M" title="What is BNB? Binance Smart Chain Explained with Animations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### How work
+### How it works
 BNB uses a proof-of-stake (PoS) consensus mechanism, specifically a delegated PoS (DPoS) algorithm, to validate transactions on its blockchain.
 
 In a PoS consensus mechanism, validators (also called "stakers") are chosen based on the amount of cryptocurrency they hold and are willing to "stake" as collateral to participate in validating transactions. The more cryptocurrency a validator stakes, the more likely they are to be chosen to validate transactions and earn rewards.
@@ -109,10 +121,13 @@ In the case of BNB, the Binance Smart Chain uses a DPoS algorithm that allows ho
 
 Overall, the PoS consensus mechanism and DPoS algorithm used by BNB are designed to be more energy-efficient than the proof-of-work (PoW) consensus mechanism used by Bitcoin, as they do not require validators to perform complex mathematical calculations in order to validate transactions.
 
-### Example purpose
+### An Example of purpose
 One of the primary use cases for BNB is to pay for transaction fees on the Binance exchange. When a user makes a trade on Binance, they have the option to pay for their fees using BNB. If they choose to do so, they receive a 25% discount on the transaction fees. This has made BNB a popular choice for frequent traders on the exchange.
 
 In addition to transaction fee discounts, BNB can also be used to pay for other services offered by Binance, such as staking, margin trading, and futures trading. Binance has also created its own blockchain, the Binance Smart Chain, where BNB is used as the primary token for paying transaction fees and interacting with decentralized applications (dapps) built on the Binance Smart Chain.
+
+### Significant forks
+* Binance Smart Chain (BSC): Which was created to provide a faster and cheaper alternative to the Ethereum network for decentralized applications (dApps) and other blockchain-based services, while also leveraging BNB as its native token for transactions and network fees.
 
 ## Ripple (XRP)
 2012
@@ -126,7 +141,7 @@ Ripple is a real-time gross settlement system (RTGS), currency exchange, and rem
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/dlxYUQIMzqo" title="What is Ripple? XRP Explained with Animations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### How work
+### How it works
 The native cryptocurrency of the Ripple network is called XRP. XRP is used primarily as a bridge currency to facilitate cross-border transactions between different currencies.
 
 When a financial institution wants to send money to another institution in a different country, they may need to exchange their local currency for the destination currency. This process can be slow and expensive, as it often involves multiple intermediaries and fees. XRP is used to simplify this process by acting as a bridge currency between the two currencies.
@@ -137,8 +152,17 @@ XRP can also be used for micropayments and to pay transaction fees on the Ripple
 
 One unique aspect of XRP is that all of the tokens were pre-mined at the time of creation, meaning that there is no mining process for XRP like there is for Bitcoin and other cryptocurrencies. The total supply of XRP is 100 billion tokens, with about 45% of the tokens currently in circulation. The remaining tokens are held by Ripple Labs, Inc., the creators of the Ripple network.
 
-### Example purpose
+### An Example of purpose
 Ripple's primary goal is to provide a fast and secure way for financial institutions to settle cross-border payments. Its network allows banks and other financial institutions to send and receive payments in different currencies in real-time, with very low transaction fees.
+
+### Significant forks
+There are several forks of the Ripple network that have emerged since the network was created. However, since Ripple is a private company and Ripple Labs controls the network, not all of these forks are official.
+
+One of the official forks is the XRP Ledger, which is an open blockchain and platform for digital payments. The XRP Ledger is designed to be faster and cheaper than Bitcoin and other cryptocurrencies. It also allows developers to create their own tokens that can be used for various purposes, such as ICOs.
+
+Another fork of the Ripple network is Stellar, which was created by Jed McCaleb, a co-founder of Ripple. Stellar focuses on financial services for the poor and supports fast and inexpensive international payments. Stellar uses its own consensus mechanism, which is called the Stellar Consensus Protocol.
+
+There are also other unofficial forks of the Ripple network, such as Ripple Cash, RippleFox, and others, which attempt to provide alternative ways to use the Ripple network. However, most of these forks do not have the same support and recognition as the official XRP Ledger and Stellar.
 
 ## Cardano (ADA)
 2017
@@ -153,7 +177,7 @@ ADA is the native cryptocurrency of the Cardano blockchain platform. Cardano is 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/UMUztLQNqSI" title="What is Cardano? ADA Explained with Animations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-### How work
+### How it works
 The Cardano blockchain uses a proof-of-stake (PoS) consensus mechanism to validate transactions and add new blocks to the blockchain. The PoS consensus mechanism on Cardano is called Ouroboros, and it is designed to be highly secure, scalable, and energy-efficient.
 
 In a PoS system, network participants (called "stakers") hold a stake in the network's cryptocurrency (ADA, in the case of Cardano) in order to validate transactions and earn rewards. The more ADA a staker holds, the greater their chance of being chosen to validate transactions and earn rewards.
@@ -166,7 +190,7 @@ In addition to validating transactions and adding new blocks to the blockchain, 
 
 Overall, the Ouroboros PoS consensus mechanism on Cardano is designed to be highly secure, scalable, and energy-efficient, while also providing opportunities for stakers to earn rewards and participate in the governance of the network.
 
-### Example purpose
+### An Example of purpose
 ADA is used as the native currency of the Cardano platform and can be used for a variety of purposes, including paying transaction fees, staking to participate in the network's consensus mechanism, and as a means of exchange on cryptocurrency exchanges.
 
 ## Polygon (MATIC)
@@ -181,14 +205,14 @@ Matic Network, also known as Polygon, is a layer-2 scaling solution for Ethereum
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/GWUwFDFOipo" title="What is Polygon? MATIC Explained with Animations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### How work
+### How it works
 The native cryptocurrency of the Matic Network is called MATIC. MATIC is used to pay for transaction fees and to participate in the network's consensus mechanism. MATIC can also be used as a means of exchange on cryptocurrency exchanges.
 
 One of the key features of the Matic Network is its Plasma-based scaling solution, which is designed to enable faster and more efficient transactions on the network. The Plasma framework is a layer-2 scaling solution that allows for the creation of child chains, which are separate blockchain networks that are connected to the main Ethereum network.
 
 Transactions that occur on the Matic Network's child chains are validated by a set of validators and then committed to the main Ethereum blockchain in batches. This allows the Matic Network to process a high volume of transactions without overloading the main Ethereum network.
 
-### Example purpose
+### An Example of purpose
 One of the key features of the Matic Network is its Plasma-based scaling solution, which is designed to enable faster and more efficient transactions on the network Ethereum.
 
 ## Solana (SOL)
@@ -204,7 +228,7 @@ Solana is a high-performance blockchain platform designed for decentralized appl
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/1jzROE6EhxM" title="What is Solana? SOL Explained with Animations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### How work
+### How it works
 The Solana blockchain uses a proof-of-stake (PoS) consensus mechanism called Proof of History (PoH) to validate transactions and add new blocks to the blockchain. The PoH consensus mechanism is designed to be highly secure, scalable, and energy-efficient.
 
 In a PoS system, network participants (called "validators") hold a stake in the network's cryptocurrency (SOL, in the case of Solana) in order to validate transactions and earn rewards. The more SOL a validator holds, the greater their chance of being chosen to validate transactions and earn rewards.
@@ -215,29 +239,29 @@ Validators on the Solana network are selected based on their stake in the networ
 
 In addition to validating transactions and adding new blocks to the blockchain, validators on the Solana network can also participate in governance activities, such as voting on proposals for network upgrades and improvements. This helps to ensure that the Solana network remains decentralized and community-driven.
 
-### Example purpose
+### An Example of purpose
 The native cryptocurrency of the Solana platform is called SOL. SOL is used to pay for transaction fees on the network, as well as for staking to participate in the network's consensus mechanism. SOL can also be used as a means of exchange on cryptocurrency exchanges.
 
-## Palkadot (DOT)
+## Polkadot (DOT)
 2019
 {: .label .label-green }
 
 Communication between blockchains
 {: .label }
 
-### What is Palkadot?
+### What is Polkadot?
 Polkadot is a blockchain platform designed to facilitate interoperability between different blockchains. The platform aims to create a decentralized, open-source network that enables developers to build and deploy decentralized applications (dApps) and services that can communicate with each other across different blockchains.
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/YlAdEQp6ekM" title="What is Polkadot? DOT Explained with Animations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### How work
+### How it works
 One of the key features of the Polkadot platform is its use of a sharded architecture. The network is divided into multiple "parachains" (parallel chains) that can run independently and process transactions in parallel. This allows the Polkadot network to process a high volume of transactions in a more efficient and scalable manner than other blockchain platforms.
 
 Another notable feature of the Polkadot platform is its focus on interoperability between different blockchains. The platform is designed to enable cross-chain communication and transfer of assets, which can help to break down the silos that currently exist between different blockchain networks.
 
 The consensus mechanism used by the Polkadot network is called "Nominated Proof-of-Stake" (NPoS). In this system, DOT holders can nominate validators to participate in the network's consensus mechanism and earn rewards for validating transactions. Validators must hold a certain amount of DOT in order to participate in the consensus mechanism, which helps to ensure that they have a stake in the network's success.
 
-### Example purpose
+### An Example of purpose
 The native cryptocurrency of the Polkadot platform is called DOT. DOT is used to pay for transaction fees on the network, as well as for staking to participate in the network's consensus mechanism. DOT can also be used as a means of exchange on cryptocurrency exchanges.
 
 ## Litecoin
@@ -252,7 +276,7 @@ Litecoin (LTC) is a decentralized, peer-to-peer cryptocurrency that was created 
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/JMTJvXyHJGU" title="What is Litecoin? LTC Explained with Animations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### How work
+### How it works
 Like Bitcoin, Litecoin is based on a decentralized ledger technology called blockchain. Transactions on the Litecoin network are verified by nodes on the network and recorded in a public ledger. However, there are some key differences between Litecoin and Bitcoin that set them apart.
 
 One major difference is the block time. Litecoin has a block time of 2.5 minutes, which is much faster than Bitcoin's block time of 10 minutes. This means that transactions on the Litecoin network can be processed and confirmed more quickly than on the Bitcoin network.
@@ -261,7 +285,7 @@ Another difference is the mining algorithm. Litecoin uses a different mining alg
 
 The total supply of Litecoin is also higher than Bitcoin's. While Bitcoin has a maximum supply of 21 million coins, Litecoin has a maximum supply of 84 million coins. This means that there will be four times as many Litecoin coins in circulation as Bitcoin coins.
 
-### Example purpose
+### An Example of purpose
 One of the main purposes of Litecoin is to serve as a store of value and medium of exchange, similar to traditional fiat currencies. However, unlike fiat currencies, Litecoin operates on a decentralized system, allowing for peer-to-peer transactions without the need for intermediaries such as banks. This allows for greater financial freedom and autonomy for individuals and businesses.
 
 ## Tron
@@ -276,10 +300,10 @@ TRON is a blockchain-based platform that aims to create a decentralized internet
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/WwL9wZ3FbEs" title="What is TRON? TRX Crypto Explained! (Animated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### How work
+### How it works
 The consensus mechanism used by the TRON network is called "Delegated Proof of Stake" (DPoS). In this system, TRX holders can vote for "witnesses" to participate in the network's consensus mechanism and earn rewards for validating transactions. Witnesses must hold a certain amount of TRX in order to participate in the consensus mechanism, which helps to ensure that they have a stake in the network's success.
 
-### Example purpose
+### An Example of purpose
 One of the key features of the TRON platform is its focus on content sharing and distribution. The platform includes a content distribution network (CDN) that enables users to share and distribute content without relying on centralized platforms such as YouTube or Facebook. This can help to reduce the power and influence of centralized platforms and give more control to content creators and users.
 
 The native cryptocurrency of the TRON platform is called TRX. TRX is used to pay for transaction fees on the network, as well as for staking to participate in the network's consensus mechanism. TRX can also be used as a means of exchange on cryptocurrency exchanges
