@@ -346,5 +346,6 @@ One of the key features of the TRON platform is its focus on content sharing and
 The native cryptocurrency of the TRON platform is called TRX. TRX is used to pay for transaction fees on the network, as well as for staking to participate in the network's consensus mechanism. TRX can also be used as a means of exchange on cryptocurrency exchanges
 
 ### Forks of Tron
+
 {: .note }
 There are currently no known forks of the Tron blockchain.
