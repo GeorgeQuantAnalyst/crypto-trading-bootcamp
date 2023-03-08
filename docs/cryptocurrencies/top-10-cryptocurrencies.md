@@ -19,7 +19,7 @@ Digital assets will only form part of Binance Digital Asset Indices if they sati
 * Does not include CoinMarketCap Top Memes Tokens by Market Capitalization https://coinmarketcap.com/view/memes/.
 
 <center>
-<img src="../../../assets/images/cmc-10-index.jpg" width="500" />
+<img src="../../../assets/images/cmc-10-index.png" width="500" />
 </center>
 
 ## Bitcoin (BTC)
