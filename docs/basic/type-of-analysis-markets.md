@@ -9,18 +9,7 @@ nav_order: 5
 Updated: 6.3.2023 by Lucy
 {: .label .label-purple }
 
-There are two main types of analysis used in financial markets: fundamental analysis and technical analysis. Another one is psychology analysis
-
-{: .note }
-Both fundamental and technical analysis can be used to make investment decisions in financial markets, and many investors use a combination of both approaches. However, there are some key differences between the two approaches, and each has its own strengths and weaknesses.
-
-{: .note }
-Fundamental analysis is often used for long-term investing and can provide a more comprehensive view of a company or industry. However, it can be time-consuming and may not be as useful for short-term trading.
-
-{: .note }
-Technical analysis, on the other hand, is often used for short-term trading and can provide more immediate signals for buying and selling decisions. However, it can be more subjective and may not provide as much context about the underlying factors driving market movements.
-
-Ultimately, the choice of analysis method depends on an investor's individual investment goals, risk tolerance, and preferred investing style.
+There are two main types of analysis used in financial markets: fundamental analysis and technical analysis. Another one is psychology analysis. Both fundamental and technical analysis can be used to make investment decisions in financial markets, and many investors use a combination of both approaches. However, there are some key differences between the two approaches, and each has its own strengths and weaknesses. Fundamental analysis is often used for long-term investing and can provide a more comprehensive view of a company or industry. However, it can be time-consuming and may not be as useful for short-term trading. Technical analysis, on the other hand, is often used for short-term trading and can provide more immediate signals for buying and selling decisions. However, it can be more subjective and may not provide as much context about the underlying factors driving market movements.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -32,6 +21,10 @@ Ultimately, the choice of analysis method depends on an investor's individual in
 
 ## Technical analysis
 It involves analyzing past market data, such as price and volume, to identify patterns and trends that can be used to predict future market movements. Technical analysts use charts and other tools to visualize market data and identify potential buying and selling opportunities.
+
+<center>
+<img src="../../assets/images/technical-analysis.jpg" width="500" />
+</center>
 
 ### Example
 One example of technical analysis is the use of chart patterns to identify potential buying or selling opportunities in financial markets. Chart patterns are visual representations of past market data, such as price and volume, that can help traders identify trends and predict future price movements.
@@ -46,6 +39,11 @@ Overall, technical analysis can be a powerful tool for traders and investors to 
 
 ## Fundamental analysis
 It involves analyzing the financial and economic factors that can affect the price of a security, such as company financial statements, industry trends, macroeconomic indicators, and geopolitical events. Fundamental analysts use this information to evaluate the intrinsic value of a security and make investment decisions based on their assessment of its long-term potential.
+
+
+<center>
+<img src="../../assets/images/fundamental-analysis.jpg" width="500" />
+</center>
 
 ### Example
 One example of fundamental analysis is the evaluation of a company's financial statements to determine its intrinsic value and long-term growth potential. Financial statements such as the income statement, balance sheet, and cash flow statement can provide valuable information about a company's revenues, expenses, assets, liabilities, and cash flows.
