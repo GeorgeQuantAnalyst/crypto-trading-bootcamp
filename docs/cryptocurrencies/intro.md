@@ -32,12 +32,12 @@ Cryptocurrencies are primarily used as a digital medium of exchange. They are de
 
 **Digital currencies, Supply chain management, and Voting systems**
 
-## What is blockchain?
+### What is blockchain?
 A blockchain is a digital ledger of transactions that is decentralized and distributed across a network of computers. Each block in the chain contains a number of transactions, and every time a new transaction is added to the block, it is broadcast to the entire network. Each block is linked to the block before it and after it, creating a chain of blocks. This creates a transparent and secure way of recording and verifying transactions, as each block in the chain is protected by complex cryptography.
 
 One of the key features of a blockchain is that it is immutable, meaning that once a block is added to the chain, it cannot be altered or deleted. This makes it a very useful technology for a variety of different applications, such as digital currencies, supply chain management, and voting systems. Bitcoin, the first and most well-known cryptocurrency, is based on blockchain technology.
 
-## What is smart contract and dApp?
+### What is smart contract and dApp?
 A smart contract is a self-executing contract with the terms of the agreement written directly into lines of code. It is a computer program that automatically executes the terms of a contract when certain conditions are met. Smart contracts allow for the automation of processes and can be used to facilitate, verify, and enforce the negotiation or performance of a contract.
 
 A decentralized application (dApp) is a type of application that runs on a blockchain network. dApps are decentralized because they are not controlled by any single entity. Instead, they rely on a decentralized peer-to-peer network, typically a blockchain, to run. dApps are open-source and are typically built on top of a blockchain platform like Ethereum. They can be used for a wide range of purposes, such as creating decentralized marketplaces, digital voting systems, and more.
