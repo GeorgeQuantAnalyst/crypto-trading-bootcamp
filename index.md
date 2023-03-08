@@ -58,5 +58,5 @@ Lucy is trader focused on trading futures contracts on cryptocurrencies and soft
 > Python, Pandas, Numpy, Matplotlib, JupyterNotebook, SQL, Linux, Markdown, Jekyll, Git, REST services
 
 
-[cryptocurrencies]: {% link docs/cryptocurrencies/cryptocurrencies.md %}
-[basic]: {% link docs/basic/basic.md %}
+[cryptocurrencies]: {% link cryptocurrencies/cryptocurrencies.md %}
+[basic]: {% link basic/basic.md %}
