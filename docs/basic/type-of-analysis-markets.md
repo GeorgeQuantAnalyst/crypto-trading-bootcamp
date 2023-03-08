@@ -23,7 +23,7 @@ There are two main types of analysis used in financial markets: fundamental anal
 It involves analyzing past market data, such as price and volume, to identify patterns and trends that can be used to predict future market movements. Technical analysts use charts and other tools to visualize market data and identify potential buying and selling opportunities.
 
 <center>
-<img src="../../assets/images/technical-analysis.jpg" width="500" />
+<img src="../../../assets/images/technical-analysis.jpg" width="500" />
 </center>
 
 ### Example
@@ -42,7 +42,7 @@ It involves analyzing the financial and economic factors that can affect the pri
 
 
 <center>
-<img src="../../assets/images/fundamental-analysis.jpg" width="500" />
+<img src="../../../assets/images/fundamental-analysis.jpg" width="500" />
 </center>
 
 ### Example
